@@ -12,6 +12,163 @@
 		64F35EC36EBE75E1C040FF0F /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		F56AAB116B3B426FAAEE4A7B /* AGaramondPro-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 63F042CA12FD49DC8929D863 /* AGaramondPro-BoldItalic.otf */; };
+		AB7DE50E3CE4461E98F84E35 /* AGaramondPro-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 11F6DDCF3BB444FFA909D818 /* AGaramondPro-Italic.otf */; };
+		456F1EF29BA8465EBC66D95B /* AGaramondPro-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4687864405AD4F21B5D1072A /* AGaramondPro-Regular.otf */; };
+		8A031372256B4EB0BFC9B6A7 /* AGaramondPro-SemiboldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 97476F4C5B0B488FA6F846D1 /* AGaramondPro-SemiboldItalic.otf */; };
+		2074BB0FC3DD41D5BEFDDACA /* Canopee.otf in Resources */ = {isa = PBXBuildFile; fileRef = 01C48D95AD494DCB92BC9FE0 /* Canopee.otf */; };
+		5A199EB805884BB194EB9343 /* Geomanist-Book.otf in Resources */ = {isa = PBXBuildFile; fileRef = 90046FF5F7964D1D9B72199F /* Geomanist-Book.otf */; };
+		637C344D241F4996A676D2EE /* Geomanist-Black-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 763A0BA2D9CD4D58BE71F50C /* Geomanist-Black-Italic.otf */; };
+		CA1D79752600466CB8D1D682 /* Geomanist-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 995B76A9487C486C9D48CEA5 /* Geomanist-Black.otf */; };
+		930E6F15EFC1426BAB0EAB55 /* Geomanist-Bold-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 965C27AB947F4390A623F06B /* Geomanist-Bold-Italic.otf */; };
+		2446910965984F63A60EEB26 /* Geomanist-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 35139DF336914D53A2429161 /* Geomanist-Bold.otf */; };
+		0B1BB26070D2444B947B48EB /* Geomanist-Book-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 97DFEEE538844265850CF829 /* Geomanist-Book-Italic.otf */; };
+		6008A651CF8C4852B9359F4E /* Geomanist-ExtraLight-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B3D52877EB904A1BA1BF3D0C /* Geomanist-ExtraLight-Italic.otf */; };
+		DF4AE83237DA49B98D608A08 /* Geomanist-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = FE3422ECCC464F7384073D1A /* Geomanist-ExtraLight.otf */; };
+		7DECB5E4079E45239D3BE195 /* Geomanist-Light-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4E6FD23C69464203BAD6ED89 /* Geomanist-Light-Italic.otf */; };
+		E41707AB5B5146C9AE4F9BD4 /* Geomanist-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = D1D777E6F0634A279E8228EE /* Geomanist-Light.otf */; };
+		77AC3CF273B747EDBC494522 /* Geomanist-Medium-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 894D7B6BCBFE428383EA7F3B /* Geomanist-Medium-Italic.otf */; };
+		C0B56BA2367E4CA68ADD5DC5 /* Geomanist-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 91A90640E10043389F8EB17E /* Geomanist-Medium.otf */; };
+		7124C24B8A1D45CBAC75BD59 /* Geomanist-Regular-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 031CC5436FC643F8A8B09917 /* Geomanist-Regular-Italic.otf */; };
+		D33D2181EFE447299A1373E1 /* Geomanist-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = C99624E8321F460FBCD14DCB /* Geomanist-Regular.otf */; };
+		0F3BBA8C7670405285138B72 /* Geomanist-Thin-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5B63A50D0DF8418F8AE726A1 /* Geomanist-Thin-Italic.otf */; };
+		A1B7D4A6C41B4CC9BA794ACE /* Geomanist-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = AE8F2CD047ED4C288675655E /* Geomanist-Thin.otf */; };
+		5D503D5A79784B299DB66EAE /* Geomanist-Ultra-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 07252ED8387F4016B0BDBFA6 /* Geomanist-Ultra-Italic.otf */; };
+		78DA8E67813444ECB0CFBDC6 /* Geomanist-Ultra.otf in Resources */ = {isa = PBXBuildFile; fileRef = 27E8D901CFA740EC91F055FC /* Geomanist-Ultra.otf */; };
+		060D11AB42B5450CB0EBD158 /* Monotype  - Helvetica Now Display.otf in Resources */ = {isa = PBXBuildFile; fileRef = 78DA9215244348F1A9F510CA /* Monotype  - Helvetica Now Display.otf */; };
+		F852E4C63132460E8033892F /* MyriadPro-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6BDEC1D698514AC0B5926965 /* MyriadPro-Regular.otf */; };
+		6A71A9FF1A3C41648CC09B62 /* Avenir Black Oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6F8E639563194268BCC29A9F /* Avenir Black Oblique.ttf */; };
+		B172D91ADD684334866F43AF /* Avenir Book Oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9D27B84C75104DA3B4664B52 /* Avenir Book Oblique.ttf */; };
+		C0C2CBF012BB4A74BF049DEA /* Avenir Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 733B600A2B8348678B1224A3 /* Avenir Medium.ttf */; };
+		D800E0E536524E329978ABA6 /* Avenir-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 68F1CC5239394710A364801E /* Avenir-Black.ttf */; };
+		93B892AF63124FF3B4E79F84 /* Avenir-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 585D655921364C25818170DA /* Avenir-Medium.ttf */; };
+		48B2E433D4B54AF7BBD70A91 /* Avenir-Oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B0D26440A6374387A8AFD355 /* Avenir-Oblique.ttf */; };
+		5D48D94ABC3E45D29A55C5F8 /* Avenir-Roman.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BBE825FF92754CAABFFC93B8 /* Avenir-Roman.ttf */; };
+		5FAE42956FD54E07B0F3521D /* Avenir_85_Heavy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 32ECF91FB7EB4C5F883AC719 /* Avenir_85_Heavy.ttf */; };
+		D0004DD6F84E4AD6B9540D86 /* Avenir_95_Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5AD14163B7404554AC632347 /* Avenir_95_Black.ttf */; };
+		34668901D7ED46B992E09602 /* geomanist-black-italic-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66D02FB9105E477C95DE2B01 /* geomanist-black-italic-webfont.ttf */; };
+		9E4F647A86FC43899E721C2A /* geomanist-black-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3CBD466EF3A947BEAFD901D5 /* geomanist-black-webfont.ttf */; };
+		3D857FC5BAAA4DB599751FBC /* geomanist-bold-italic-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9AFFFCE41C774C5B94AA1BB8 /* geomanist-bold-italic-webfont.ttf */; };
+		CC388C6A4FEB421D83A2F514 /* geomanist-bold-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 26E82445A62E4696AEEA814A /* geomanist-bold-webfont.ttf */; };
+		DB306B0D1BAD41D0A91762E6 /* geomanist-book-italic-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 93FA0EF0DF084F8F884E3F4E /* geomanist-book-italic-webfont.ttf */; };
+		0DEF488BACE9464F9A02202E /* geomanist-book-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BB5335C2FF05463495DB4F26 /* geomanist-book-webfont.ttf */; };
+		E178B2DC83684F89BC5B1D3C /* geomanist-extralight-italic-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9646A5FB1DD404E99BA7970 /* geomanist-extralight-italic-webfont.ttf */; };
+		992FF94D8A13472BBC904DE4 /* geomanist-extralight-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 20883BB92849489297220CDF /* geomanist-extralight-webfont.ttf */; };
+		A10298B2E3454711A99ACC55 /* geomanist-light-italic-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3B58DDFF1E04463898953ED2 /* geomanist-light-italic-webfont.ttf */; };
+		929C66CEDA1040D29D7336F1 /* geomanist-light-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BF5B5E17A8744B81B6275BF9 /* geomanist-light-webfont.ttf */; };
+		2C10604FD6D6466298714963 /* geomanist-medium-italic-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 089083AE12C74769959D5301 /* geomanist-medium-italic-webfont.ttf */; };
+		ACE297F4A61A41F191F2077F /* geomanist-medium-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 10E75BAD22594A5196E003C2 /* geomanist-medium-webfont.ttf */; };
+		FB5B8372C06649D9A36411CD /* geomanist-regular-italic-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8981B8D76128447B80C9D821 /* geomanist-regular-italic-webfont.ttf */; };
+		62CEF4D118C4410B90BAE83C /* geomanist-regular-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 119FDB20698241D2ACD7937F /* geomanist-regular-webfont.ttf */; };
+		AE8EB3BDCFC048D39383F59C /* geomanist-thin-italic-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D8CD28381B7D480FA4955709 /* geomanist-thin-italic-webfont.ttf */; };
+		B9596CFB822E4D659B1DAEBA /* geomanist-thin-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1BE9A9339C5C44ADA34F7F76 /* geomanist-thin-webfont.ttf */; };
+		6A1F3AEEA4BC4777884AE600 /* geomanist-ultra-italic-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 18C63EB6948B4DBD9FFD6838 /* geomanist-ultra-italic-webfont.ttf */; };
+		420FA73F60A34B46841BDD6D /* geomanist-ultra-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0F8FE0C6E20F48FEB614F92E /* geomanist-ultra-webfont.ttf */; };
+		F906DF173B4B4A4A8502B672 /* Avenir.ttc in Resources */ = {isa = PBXBuildFile; fileRef = 4C1E9BE81809443596B90C63 /* Avenir.ttc */; };
+		D1BFA5964CF14FD695A2F8D4 /* EULA_VJ-TYPE.pdf in Resources */ = {isa = PBXBuildFile; fileRef = E970C2E14E50425B9218EE12 /* EULA_VJ-TYPE.pdf */; };
+		1461475551924487AE08F99F /* VJ-TYPE_CANOPEE-SPECIMEN.pdf in Resources */ = {isa = PBXBuildFile; fileRef = BE24D6840BAE4DE8A849CCB7 /* VJ-TYPE_CANOPEE-SPECIMEN.pdf */; };
+		7F6F8ABB650A4A278FF61B5C /* VJ-TYPE_HOWTOUSE_CANOPEE.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 683706F2A17144B28E2C6978 /* VJ-TYPE_HOWTOUSE_CANOPEE.pdf */; };
+		83B36E3818B0489BBE5A1AD5 /* Canopee.eot in Resources */ = {isa = PBXBuildFile; fileRef = FE62B800D760468AA80EF6EA /* Canopee.eot */; };
+		58F2CA92AAE545868AC5BF01 /* Canopee.woff in Resources */ = {isa = PBXBuildFile; fileRef = 134F06386D774733B21C7ED0 /* Canopee.woff */; };
+		BA4D024F0CBD4E48A16F5388 /* Canopee.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = E89480CE4DD44FF0862C7582 /* Canopee.woff2 */; };
+		08F2BC71F0DC4CA6BE5B62AA /* geomanist_desktop_license.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 8BB1CE57005E435DBEC44AC9 /* geomanist_desktop_license.pdf */; };
+		A7055826B1504E1CBB3020FD /* generator_config.txt in Resources */ = {isa = PBXBuildFile; fileRef = B6ED14E6B450469C837DF533 /* generator_config.txt */; };
+		E8B081E17E464F8DBEFD310F /* geomanist-black-italic-demo.html in Resources */ = {isa = PBXBuildFile; fileRef = 4A989F11993F48FA9FE1103D /* geomanist-black-italic-demo.html */; };
+		35DAD2E1B0B94F6A8D8CF813 /* geomanist-black-italic-webfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = 55E106B169474B50AB5BA8E2 /* geomanist-black-italic-webfont.eot */; };
+		CF1C50F671C94E738C4EB3AC /* geomanist-black-italic-webfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = 8DE3DCB3F6E54EFCB7DF34FF /* geomanist-black-italic-webfont.svg */; };
+		4A1FA3548BF949F89127E695 /* geomanist-black-italic-webfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = C904BD634957413393C7E367 /* geomanist-black-italic-webfont.woff */; };
+		D22484BD9ABC4525BE064859 /* geomanist-black-italic-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = 8A27B51F65ED4F8A848E64FD /* geomanist-black-italic-webfont.woff2 */; };
+		25E3219514A14A06B9D47C25 /* grid_12-825-55-15.css in Resources */ = {isa = PBXBuildFile; fileRef = A06F5163938444E493F9E22C /* grid_12-825-55-15.css */; };
+		485D3CC8F1E146E4B75B4686 /* specimen_stylesheet.css in Resources */ = {isa = PBXBuildFile; fileRef = 3F67787FBBDF46EC999EB47C /* specimen_stylesheet.css */; };
+		A1369BCC65084E76A89DBBA3 /* stylesheet.css in Resources */ = {isa = PBXBuildFile; fileRef = 45488F0C82FD4DC5AF0CFD6D /* stylesheet.css */; };
+		4674C62FC6D74BE3B31798BD /* geomanist-black-demo.html in Resources */ = {isa = PBXBuildFile; fileRef = FCF7E487CADC4ED4A35F9B65 /* geomanist-black-demo.html */; };
+		29A7D462703F47FEB4344C72 /* geomanist-black-webfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = 17AB7983BF7E4B35AC9A144A /* geomanist-black-webfont.eot */; };
+		9E658E441025480BAD11CB6A /* geomanist-black-webfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = E2B0868B935C4A2EA19E96AD /* geomanist-black-webfont.svg */; };
+		16478B741924485B8D29FB1D /* geomanist-black-webfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = 086694873CA24B8FB24E5751 /* geomanist-black-webfont.woff */; };
+		3F77FF6783414969AD4FEF16 /* geomanist-black-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = 11533323D5C1491E96A525A5 /* geomanist-black-webfont.woff2 */; };
+		FD2FF548F03B4818B502B43D /* geomanist-bold-italic-demo.html in Resources */ = {isa = PBXBuildFile; fileRef = 04BAF81EDD6042CE92E97681 /* geomanist-bold-italic-demo.html */; };
+		2CC8DC9CD8A24AA5A46E42E1 /* geomanist-bold-italic-webfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = F9BF2E25AED1406B81470C28 /* geomanist-bold-italic-webfont.eot */; };
+		DF9347C2C5C8403CA15FCC26 /* geomanist-bold-italic-webfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = 7DD4B9D6962C4BBD9795226B /* geomanist-bold-italic-webfont.svg */; };
+		58B37ED95AD8476A83D69F81 /* geomanist-bold-italic-webfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = 4E21685F02CD4019A3962B28 /* geomanist-bold-italic-webfont.woff */; };
+		01E67FC7401A4A65B5D07D3B /* geomanist-bold-italic-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = 3C2533CFD15246FB874DBBB2 /* geomanist-bold-italic-webfont.woff2 */; };
+		37553FFFAD814947BECD4249 /* geomanist-bold-demo.html in Resources */ = {isa = PBXBuildFile; fileRef = 0B6B1ABD8CDF4FDEB8C26CF2 /* geomanist-bold-demo.html */; };
+		9110F60B9509471CAF272F53 /* geomanist-bold-webfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = 5F4E3F6BEC80407BA9F42A27 /* geomanist-bold-webfont.eot */; };
+		6629ADE8A4804E1BB1E7C326 /* geomanist-bold-webfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = D6D260FCA61C47AE9B249828 /* geomanist-bold-webfont.svg */; };
+		B2C00669FD5D4316A211863A /* geomanist-bold-webfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = 19FACF3653124EF3B6960CAD /* geomanist-bold-webfont.woff */; };
+		E18301F954AC46C08AF17F19 /* geomanist-bold-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = 7465DBD326564B42BD3DDD4B /* geomanist-bold-webfont.woff2 */; };
+		2D1D6E50557F46C4BB51F671 /* geomanist-book-italic-demo.html in Resources */ = {isa = PBXBuildFile; fileRef = AB3F41CBE7594E91B73A5901 /* geomanist-book-italic-demo.html */; };
+		9A12C7E731084CF8B6A3FF32 /* geomanist-book-italic-webfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = DFCFF7387CBF4189BFFCA704 /* geomanist-book-italic-webfont.eot */; };
+		0BA1DA45DF434B418A091FC4 /* geomanist-book-italic-webfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = E468C21C53D14CAD83535704 /* geomanist-book-italic-webfont.svg */; };
+		0298C3AAA3D544658976F44E /* geomanist-book-italic-webfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = FAE044B33B3C404DAFD24F2E /* geomanist-book-italic-webfont.woff */; };
+		B4FE88A2B86A43399BC9EE50 /* geomanist-book-italic-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = 9FD536CF000B414FAAECD294 /* geomanist-book-italic-webfont.woff2 */; };
+		15AC881A25F8485CB27238A0 /* geomanist-book-demo.html in Resources */ = {isa = PBXBuildFile; fileRef = D6568528F5D74D2D88C87B7F /* geomanist-book-demo.html */; };
+		9E54568FFAD5477F84E9AEF9 /* geomanist-book-webfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = 040BB8CD0B93413C84600978 /* geomanist-book-webfont.eot */; };
+		34F981AEA70844718F5A083C /* geomanist-book-webfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = 3CD811C47EF5418C93C03E9F /* geomanist-book-webfont.svg */; };
+		FAF4157E70E947BC9DEC3AE2 /* geomanist-book-webfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = 26705D93FE2C4E63AB01F1B9 /* geomanist-book-webfont.woff */; };
+		AF80D61018BD4F338ACD065E /* geomanist-book-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = AB0EE34FA91D434FA99A68A9 /* geomanist-book-webfont.woff2 */; };
+		0B62031117EE4BBC9D8BEBB3 /* geomanist-extralight-italic-demo.html in Resources */ = {isa = PBXBuildFile; fileRef = 42BD774B05B64172B3E898DF /* geomanist-extralight-italic-demo.html */; };
+		AAFCB0BA54F64E12B9C18843 /* geomanist-extralight-italic-webfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = 877024ED1258474FA382119C /* geomanist-extralight-italic-webfont.eot */; };
+		35DC047F236E46BDA30E5F73 /* geomanist-extralight-italic-webfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = 7D5917D7A2324C00BE612E0D /* geomanist-extralight-italic-webfont.svg */; };
+		8FE626D238DA48CB9D298F59 /* geomanist-extralight-italic-webfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = 6F61D155EB8D46B5936FE376 /* geomanist-extralight-italic-webfont.woff */; };
+		8C8E1A0805BE4C34B7610D88 /* geomanist-extralight-italic-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = 076D3FEA56874671A678FFCF /* geomanist-extralight-italic-webfont.woff2 */; };
+		13543AA0169F45498EE9C282 /* geomanist-extralight-demo.html in Resources */ = {isa = PBXBuildFile; fileRef = 6080256E94574D3EBBF4F80B /* geomanist-extralight-demo.html */; };
+		3231F8AB94C443D7B4E9E018 /* geomanist-extralight-webfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = AF7C651A84364F11B4798622 /* geomanist-extralight-webfont.eot */; };
+		0B258BA156C14783AF11B675 /* geomanist-extralight-webfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = 58654F01CB62478E8ACAB696 /* geomanist-extralight-webfont.svg */; };
+		A815DC4EE8094CEDAD1EB25F /* geomanist-extralight-webfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = 371A8BD4E83E4F08B8F82A45 /* geomanist-extralight-webfont.woff */; };
+		D9049EAAEC28484084515B1D /* geomanist-extralight-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = C13D014CBCFB40649EA76CA5 /* geomanist-extralight-webfont.woff2 */; };
+		A07CAB27A15F4F02B711292A /* geomanist-light-italic-demo.html in Resources */ = {isa = PBXBuildFile; fileRef = 92B87777213645BA8E7FCD24 /* geomanist-light-italic-demo.html */; };
+		A2BA29FDA0C74214B768E4AD /* geomanist-light-italic-webfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = 34EF2C1A8B084957B9D5A156 /* geomanist-light-italic-webfont.eot */; };
+		473562F682CA4E62A3646BD7 /* geomanist-light-italic-webfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = ED19ECD1D9BF43ADA2D12C64 /* geomanist-light-italic-webfont.svg */; };
+		A9A8736FC22A453288FF06A1 /* geomanist-light-italic-webfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = 17409A67B87F4360B5819AB5 /* geomanist-light-italic-webfont.woff */; };
+		B3651CF69FCB40F39D53F128 /* geomanist-light-italic-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = 137C99A4B515480A98751D02 /* geomanist-light-italic-webfont.woff2 */; };
+		99BF297DF5D1401792C4F71A /* geomanist-light-demo.html in Resources */ = {isa = PBXBuildFile; fileRef = ABED44B3D0934799BDEB261E /* geomanist-light-demo.html */; };
+		BF69B442CB9F43E0A91BC22E /* geomanist-light-webfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = 1BE27CE85052410B9D048FC4 /* geomanist-light-webfont.eot */; };
+		4B4494A724234BC4B3EEAFCF /* geomanist-light-webfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = 4980427262664E73A14AAF21 /* geomanist-light-webfont.svg */; };
+		756D62AB0EF5443194B2CF74 /* geomanist-light-webfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = EE9550C0AFC5412C96DD705F /* geomanist-light-webfont.woff */; };
+		AE014A0098DB467380CC6CA1 /* geomanist-light-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = 3625ECBADC4E449998427F3F /* geomanist-light-webfont.woff2 */; };
+		B307F91915844A52AA0D0DED /* geomanist-medium-italic-demo.html in Resources */ = {isa = PBXBuildFile; fileRef = D3B0504036E84ABBA14AD068 /* geomanist-medium-italic-demo.html */; };
+		07862DE1358547C8AE6CC34C /* geomanist-medium-italic-webfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = AE4AE1CB9D8D420B845F04C6 /* geomanist-medium-italic-webfont.eot */; };
+		615E7CBD55AB4BB9AD37EF3D /* geomanist-medium-italic-webfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = D71672D4DA8547E2B000669E /* geomanist-medium-italic-webfont.svg */; };
+		8D029D2CEC8A4D119FA1147F /* geomanist-medium-italic-webfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = 700A2EF80BB545D8A4465C67 /* geomanist-medium-italic-webfont.woff */; };
+		A9342B3CD268437CADE7A1F7 /* geomanist-medium-italic-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = B67F7CCC1577427B9F5D1395 /* geomanist-medium-italic-webfont.woff2 */; };
+		6535AFA33AB44868AD4A6C0F /* geomanist-medium-demo.html in Resources */ = {isa = PBXBuildFile; fileRef = 4BD0C7BB376D4300BD7DB683 /* geomanist-medium-demo.html */; };
+		948AD04CDE9B4E089ED63FD5 /* geomanist-medium-webfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = 87315FA0B1F34489BBB0BAA2 /* geomanist-medium-webfont.eot */; };
+		FF0C7D0D83CF460482AF3386 /* geomanist-medium-webfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = 369326175A0544449A81841D /* geomanist-medium-webfont.svg */; };
+		5EDB8784E38A4C3B8C739540 /* geomanist-medium-webfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = E0EE149BA42346F8B7757394 /* geomanist-medium-webfont.woff */; };
+		EDF50286C3BA47ACAC24453F /* geomanist-medium-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = 3F6D540670B14D9DA0617BF6 /* geomanist-medium-webfont.woff2 */; };
+		84755A675CA640B7897433FE /* geomanist-regular-italic-demo.html in Resources */ = {isa = PBXBuildFile; fileRef = CD858B5141FA4A16B8FE17EC /* geomanist-regular-italic-demo.html */; };
+		1093A0D056BA41BA97D7503E /* geomanist-regular-italic-webfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = 97E9BDFA7BF74882BBF25AF0 /* geomanist-regular-italic-webfont.eot */; };
+		08A7C66847F84223A27299FD /* geomanist-regular-italic-webfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = 5FE88A9AAF6549E88081E31D /* geomanist-regular-italic-webfont.svg */; };
+		CCCB3FE77E4B41A39AF38EA4 /* geomanist-regular-italic-webfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = 6C3192E6091F4878992A4108 /* geomanist-regular-italic-webfont.woff */; };
+		2F7B683706C54EED9450DFDD /* geomanist-regular-italic-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = 4D755F74DA63419285E6D8FB /* geomanist-regular-italic-webfont.woff2 */; };
+		5BE78EDF5A714E6281CB4C7A /* geomanist-regular-demo.html in Resources */ = {isa = PBXBuildFile; fileRef = 7DFE5B5E8587422896967133 /* geomanist-regular-demo.html */; };
+		C63E193B8A3141FBAB5C541F /* geomanist-regular-webfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = 52632A7F7BA14994819B3919 /* geomanist-regular-webfont.eot */; };
+		B3A916C353F94D4CAB7214A9 /* geomanist-regular-webfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = 766DFFCDEC254D918A2A30A5 /* geomanist-regular-webfont.svg */; };
+		26907F8E8B2B4A1499C5EBBC /* geomanist-regular-webfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = D7AA6088BD634EABAF925F69 /* geomanist-regular-webfont.woff */; };
+		165327A99B4241BB9DCCDD45 /* geomanist-regular-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = 1B10BBFF84CC40D79FB8670F /* geomanist-regular-webfont.woff2 */; };
+		1712FF6679A74145B404705A /* geomanist-thin-italic-demo.html in Resources */ = {isa = PBXBuildFile; fileRef = 1212B2D32AEE48598BAC6E17 /* geomanist-thin-italic-demo.html */; };
+		E2DA6136454947BD8C87F01F /* geomanist-thin-italic-webfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = CAB9264A633047FE879E61E8 /* geomanist-thin-italic-webfont.eot */; };
+		C3A2ABB8D1CF473FB51B9A94 /* geomanist-thin-italic-webfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = 030478C160F34D43A6D046DC /* geomanist-thin-italic-webfont.svg */; };
+		81E9FAF9EAAD4E8FB1C07116 /* geomanist-thin-italic-webfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = CE357BF09DC646DEAA0BCBC2 /* geomanist-thin-italic-webfont.woff */; };
+		D58EE9655EA441DE88B353D9 /* geomanist-thin-italic-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = 4B20ECBFFDF64C4298444E9C /* geomanist-thin-italic-webfont.woff2 */; };
+		51FB704A60A648B789CD481B /* geomanist-thin-demo.html in Resources */ = {isa = PBXBuildFile; fileRef = 60CCE0AB22A646EEB0C7E047 /* geomanist-thin-demo.html */; };
+		1BD25B3DA54B4E649FA63863 /* geomanist-thin-webfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = 4FEFA51123984516B5E2472E /* geomanist-thin-webfont.eot */; };
+		B8D89C476A7C4CBEB00E4F90 /* geomanist-thin-webfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = 89DAD1305019448698F279CA /* geomanist-thin-webfont.svg */; };
+		0937042FF3CC4FF3A73D5E06 /* geomanist-thin-webfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = 80132F7E515846ECB6B328D6 /* geomanist-thin-webfont.woff */; };
+		CCB61F4CE52346588A316BA5 /* geomanist-thin-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = 4F1EB9C4113A4213971B4D24 /* geomanist-thin-webfont.woff2 */; };
+		A4C400EE46784F3299703AF7 /* geomanist-ultra-italic-demo.html in Resources */ = {isa = PBXBuildFile; fileRef = 504FE882DCE04C06B102C92A /* geomanist-ultra-italic-demo.html */; };
+		20AE36FAE39F46FDB094BF11 /* geomanist-ultra-italic-webfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = 9E303E2D334F44778738BB7E /* geomanist-ultra-italic-webfont.eot */; };
+		1AD62EBF1CCA4528B3F97A92 /* geomanist-ultra-italic-webfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = 66687A9F6AF84B11BD3DCE49 /* geomanist-ultra-italic-webfont.svg */; };
+		250EC8002AF4451487DD5C03 /* geomanist-ultra-italic-webfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = EE2765EB27E54442881CCD2F /* geomanist-ultra-italic-webfont.woff */; };
+		7CCEBA102EE9419D83BCD842 /* geomanist-ultra-italic-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = 7BBA709AE3EF4059AEC23C51 /* geomanist-ultra-italic-webfont.woff2 */; };
+		BCC38504AFA44421908A286B /* geomanist-ultra-demo.html in Resources */ = {isa = PBXBuildFile; fileRef = 8202D6854B4D4C18BAB08CD1 /* geomanist-ultra-demo.html */; };
+		77E4D77496714C94B3214DC8 /* geomanist-ultra-webfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = B00E901A491D4F1A95A5EC2D /* geomanist-ultra-webfont.eot */; };
+		2A52ED4AE74943FB88F6215D /* geomanist-ultra-webfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = 312C5D0BE908435AAB237B58 /* geomanist-ultra-webfont.svg */; };
+		3E474FECCC1049BD89B75E65 /* geomanist-ultra-webfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = E1E537E715BE43B79AEFF45B /* geomanist-ultra-webfont.woff */; };
+		24F57AC0FCDF41F1B431900B /* geomanist-ultra-webfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = E505241294A140E9AE7F242D /* geomanist-ultra-webfont.woff2 */; };
+		6049C7B6963F435A91F709D4 /* geomanist_webfont_license.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 9D66E4F87BA847C38F3AC994 /* geomanist_webfont_license.pdf */; };
+		0814BE52ED8444ABB5B8B80A /* Adobe Garamond Pro Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = B8D8DD36104F47C9B0B8CFAA /* Adobe Garamond Pro Bold.otf */; };
+		ED230318F10A4C97981AF223 /* EB Garamond.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 00EE0F4EC6994A0CBF89A5DA /* EB Garamond.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +182,163 @@
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = bluegrass/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = bluegrass/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		63F042CA12FD49DC8929D863 /* AGaramondPro-BoldItalic.otf */ = {isa = PBXFileReference; name = "AGaramondPro-BoldItalic.otf"; path = "../src/assets/fonts/AGaramondPro-BoldItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		11F6DDCF3BB444FFA909D818 /* AGaramondPro-Italic.otf */ = {isa = PBXFileReference; name = "AGaramondPro-Italic.otf"; path = "../src/assets/fonts/AGaramondPro-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4687864405AD4F21B5D1072A /* AGaramondPro-Regular.otf */ = {isa = PBXFileReference; name = "AGaramondPro-Regular.otf"; path = "../src/assets/fonts/AGaramondPro-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		97476F4C5B0B488FA6F846D1 /* AGaramondPro-SemiboldItalic.otf */ = {isa = PBXFileReference; name = "AGaramondPro-SemiboldItalic.otf"; path = "../src/assets/fonts/AGaramondPro-SemiboldItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		01C48D95AD494DCB92BC9FE0 /* Canopee.otf */ = {isa = PBXFileReference; name = "Canopee.otf"; path = "../src/assets/fonts/CANOPEE/DESKTOP/Canopee.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		90046FF5F7964D1D9B72199F /* Geomanist-Book.otf */ = {isa = PBXFileReference; name = "Geomanist-Book.otf"; path = "../src/assets/fonts/Geomanist-Book.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		763A0BA2D9CD4D58BE71F50C /* Geomanist-Black-Italic.otf */ = {isa = PBXFileReference; name = "Geomanist-Black-Italic.otf"; path = "../src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Black-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		995B76A9487C486C9D48CEA5 /* Geomanist-Black.otf */ = {isa = PBXFileReference; name = "Geomanist-Black.otf"; path = "../src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		965C27AB947F4390A623F06B /* Geomanist-Bold-Italic.otf */ = {isa = PBXFileReference; name = "Geomanist-Bold-Italic.otf"; path = "../src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Bold-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		35139DF336914D53A2429161 /* Geomanist-Bold.otf */ = {isa = PBXFileReference; name = "Geomanist-Bold.otf"; path = "../src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		97DFEEE538844265850CF829 /* Geomanist-Book-Italic.otf */ = {isa = PBXFileReference; name = "Geomanist-Book-Italic.otf"; path = "../src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Book-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B3D52877EB904A1BA1BF3D0C /* Geomanist-ExtraLight-Italic.otf */ = {isa = PBXFileReference; name = "Geomanist-ExtraLight-Italic.otf"; path = "../src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-ExtraLight-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FE3422ECCC464F7384073D1A /* Geomanist-ExtraLight.otf */ = {isa = PBXFileReference; name = "Geomanist-ExtraLight.otf"; path = "../src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-ExtraLight.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4E6FD23C69464203BAD6ED89 /* Geomanist-Light-Italic.otf */ = {isa = PBXFileReference; name = "Geomanist-Light-Italic.otf"; path = "../src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Light-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D1D777E6F0634A279E8228EE /* Geomanist-Light.otf */ = {isa = PBXFileReference; name = "Geomanist-Light.otf"; path = "../src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		894D7B6BCBFE428383EA7F3B /* Geomanist-Medium-Italic.otf */ = {isa = PBXFileReference; name = "Geomanist-Medium-Italic.otf"; path = "../src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Medium-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		91A90640E10043389F8EB17E /* Geomanist-Medium.otf */ = {isa = PBXFileReference; name = "Geomanist-Medium.otf"; path = "../src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		031CC5436FC643F8A8B09917 /* Geomanist-Regular-Italic.otf */ = {isa = PBXFileReference; name = "Geomanist-Regular-Italic.otf"; path = "../src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Regular-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C99624E8321F460FBCD14DCB /* Geomanist-Regular.otf */ = {isa = PBXFileReference; name = "Geomanist-Regular.otf"; path = "../src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5B63A50D0DF8418F8AE726A1 /* Geomanist-Thin-Italic.otf */ = {isa = PBXFileReference; name = "Geomanist-Thin-Italic.otf"; path = "../src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Thin-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AE8F2CD047ED4C288675655E /* Geomanist-Thin.otf */ = {isa = PBXFileReference; name = "Geomanist-Thin.otf"; path = "../src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		07252ED8387F4016B0BDBFA6 /* Geomanist-Ultra-Italic.otf */ = {isa = PBXFileReference; name = "Geomanist-Ultra-Italic.otf"; path = "../src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Ultra-Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		27E8D901CFA740EC91F055FC /* Geomanist-Ultra.otf */ = {isa = PBXFileReference; name = "Geomanist-Ultra.otf"; path = "../src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Ultra.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		78DA9215244348F1A9F510CA /* Monotype  - Helvetica Now Display.otf */ = {isa = PBXFileReference; name = "Monotype  - Helvetica Now Display.otf"; path = "../src/assets/fonts/Monotype  - Helvetica Now Display.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6BDEC1D698514AC0B5926965 /* MyriadPro-Regular.otf */ = {isa = PBXFileReference; name = "MyriadPro-Regular.otf"; path = "../src/assets/fonts/MyriadPro-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6F8E639563194268BCC29A9F /* Avenir Black Oblique.ttf */ = {isa = PBXFileReference; name = "Avenir Black Oblique.ttf"; path = "../src/assets/fonts/Avenir Black Oblique.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9D27B84C75104DA3B4664B52 /* Avenir Book Oblique.ttf */ = {isa = PBXFileReference; name = "Avenir Book Oblique.ttf"; path = "../src/assets/fonts/Avenir Book Oblique.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		733B600A2B8348678B1224A3 /* Avenir Medium.ttf */ = {isa = PBXFileReference; name = "Avenir Medium.ttf"; path = "../src/assets/fonts/Avenir Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		68F1CC5239394710A364801E /* Avenir-Black.ttf */ = {isa = PBXFileReference; name = "Avenir-Black.ttf"; path = "../src/assets/fonts/Avenir-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		585D655921364C25818170DA /* Avenir-Medium.ttf */ = {isa = PBXFileReference; name = "Avenir-Medium.ttf"; path = "../src/assets/fonts/Avenir-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B0D26440A6374387A8AFD355 /* Avenir-Oblique.ttf */ = {isa = PBXFileReference; name = "Avenir-Oblique.ttf"; path = "../src/assets/fonts/Avenir-Oblique.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BBE825FF92754CAABFFC93B8 /* Avenir-Roman.ttf */ = {isa = PBXFileReference; name = "Avenir-Roman.ttf"; path = "../src/assets/fonts/Avenir-Roman.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		32ECF91FB7EB4C5F883AC719 /* Avenir_85_Heavy.ttf */ = {isa = PBXFileReference; name = "Avenir_85_Heavy.ttf"; path = "../src/assets/fonts/Avenir_85_Heavy.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5AD14163B7404554AC632347 /* Avenir_95_Black.ttf */ = {isa = PBXFileReference; name = "Avenir_95_Black.ttf"; path = "../src/assets/fonts/Avenir_95_Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		66D02FB9105E477C95DE2B01 /* geomanist-black-italic-webfont.ttf */ = {isa = PBXFileReference; name = "geomanist-black-italic-webfont.ttf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/geomanist-black-italic-webfont.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3CBD466EF3A947BEAFD901D5 /* geomanist-black-webfont.ttf */ = {isa = PBXFileReference; name = "geomanist-black-webfont.ttf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Webfont/geomanist-black-webfont.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9AFFFCE41C774C5B94AA1BB8 /* geomanist-bold-italic-webfont.ttf */ = {isa = PBXFileReference; name = "geomanist-bold-italic-webfont.ttf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Italic-Webfont/geomanist-bold-italic-webfont.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		26E82445A62E4696AEEA814A /* geomanist-bold-webfont.ttf */ = {isa = PBXFileReference; name = "geomanist-bold-webfont.ttf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Webfont/geomanist-bold-webfont.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		93FA0EF0DF084F8F884E3F4E /* geomanist-book-italic-webfont.ttf */ = {isa = PBXFileReference; name = "geomanist-book-italic-webfont.ttf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Italic-Webfont/geomanist-book-italic-webfont.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BB5335C2FF05463495DB4F26 /* geomanist-book-webfont.ttf */ = {isa = PBXFileReference; name = "geomanist-book-webfont.ttf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Webfont/geomanist-book-webfont.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F9646A5FB1DD404E99BA7970 /* geomanist-extralight-italic-webfont.ttf */ = {isa = PBXFileReference; name = "geomanist-extralight-italic-webfont.ttf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Italic Webfont/geomanist-extralight-italic-webfont.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		20883BB92849489297220CDF /* geomanist-extralight-webfont.ttf */ = {isa = PBXFileReference; name = "geomanist-extralight-webfont.ttf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Webfont/geomanist-extralight-webfont.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3B58DDFF1E04463898953ED2 /* geomanist-light-italic-webfont.ttf */ = {isa = PBXFileReference; name = "geomanist-light-italic-webfont.ttf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Italic-Webfont/geomanist-light-italic-webfont.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BF5B5E17A8744B81B6275BF9 /* geomanist-light-webfont.ttf */ = {isa = PBXFileReference; name = "geomanist-light-webfont.ttf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Webfont/geomanist-light-webfont.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		089083AE12C74769959D5301 /* geomanist-medium-italic-webfont.ttf */ = {isa = PBXFileReference; name = "geomanist-medium-italic-webfont.ttf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Italic-Webfont/geomanist-medium-italic-webfont.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		10E75BAD22594A5196E003C2 /* geomanist-medium-webfont.ttf */ = {isa = PBXFileReference; name = "geomanist-medium-webfont.ttf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Webfont/geomanist-medium-webfont.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8981B8D76128447B80C9D821 /* geomanist-regular-italic-webfont.ttf */ = {isa = PBXFileReference; name = "geomanist-regular-italic-webfont.ttf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Italic-Webfont/geomanist-regular-italic-webfont.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		119FDB20698241D2ACD7937F /* geomanist-regular-webfont.ttf */ = {isa = PBXFileReference; name = "geomanist-regular-webfont.ttf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Webfont/geomanist-regular-webfont.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D8CD28381B7D480FA4955709 /* geomanist-thin-italic-webfont.ttf */ = {isa = PBXFileReference; name = "geomanist-thin-italic-webfont.ttf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Italic-Webfont/geomanist-thin-italic-webfont.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1BE9A9339C5C44ADA34F7F76 /* geomanist-thin-webfont.ttf */ = {isa = PBXFileReference; name = "geomanist-thin-webfont.ttf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Webfont/geomanist-thin-webfont.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		18C63EB6948B4DBD9FFD6838 /* geomanist-ultra-italic-webfont.ttf */ = {isa = PBXFileReference; name = "geomanist-ultra-italic-webfont.ttf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Italic-Webfont/geomanist-ultra-italic-webfont.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0F8FE0C6E20F48FEB614F92E /* geomanist-ultra-webfont.ttf */ = {isa = PBXFileReference; name = "geomanist-ultra-webfont.ttf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Webfont/geomanist-ultra-webfont.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4C1E9BE81809443596B90C63 /* Avenir.ttc */ = {isa = PBXFileReference; name = "Avenir.ttc"; path = "../src/assets/fonts/Avenir.ttc"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E970C2E14E50425B9218EE12 /* EULA_VJ-TYPE.pdf */ = {isa = PBXFileReference; name = "EULA_VJ-TYPE.pdf"; path = "../src/assets/fonts/CANOPEE/EULA_VJ-TYPE.pdf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BE24D6840BAE4DE8A849CCB7 /* VJ-TYPE_CANOPEE-SPECIMEN.pdf */ = {isa = PBXFileReference; name = "VJ-TYPE_CANOPEE-SPECIMEN.pdf"; path = "../src/assets/fonts/CANOPEE/VJ-TYPE_CANOPEE-SPECIMEN.pdf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		683706F2A17144B28E2C6978 /* VJ-TYPE_HOWTOUSE_CANOPEE.pdf */ = {isa = PBXFileReference; name = "VJ-TYPE_HOWTOUSE_CANOPEE.pdf"; path = "../src/assets/fonts/CANOPEE/VJ-TYPE_HOWTOUSE_CANOPEE.pdf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FE62B800D760468AA80EF6EA /* Canopee.eot */ = {isa = PBXFileReference; name = "Canopee.eot"; path = "../src/assets/fonts/CANOPEE/WEB/Canopee.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		134F06386D774733B21C7ED0 /* Canopee.woff */ = {isa = PBXFileReference; name = "Canopee.woff"; path = "../src/assets/fonts/CANOPEE/WEB/Canopee.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E89480CE4DD44FF0862C7582 /* Canopee.woff2 */ = {isa = PBXFileReference; name = "Canopee.woff2"; path = "../src/assets/fonts/CANOPEE/WEB/Canopee.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8BB1CE57005E435DBEC44AC9 /* geomanist_desktop_license.pdf */ = {isa = PBXFileReference; name = "geomanist_desktop_license.pdf"; path = "../src/assets/fonts/Geomanist-Complete-Desktop/geomanist_desktop_license.pdf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B6ED14E6B450469C837DF533 /* generator_config.txt */ = {isa = PBXFileReference; name = "generator_config.txt"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/generator_config.txt"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4A989F11993F48FA9FE1103D /* geomanist-black-italic-demo.html */ = {isa = PBXFileReference; name = "geomanist-black-italic-demo.html"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/geomanist-black-italic-demo.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		55E106B169474B50AB5BA8E2 /* geomanist-black-italic-webfont.eot */ = {isa = PBXFileReference; name = "geomanist-black-italic-webfont.eot"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/geomanist-black-italic-webfont.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8DE3DCB3F6E54EFCB7DF34FF /* geomanist-black-italic-webfont.svg */ = {isa = PBXFileReference; name = "geomanist-black-italic-webfont.svg"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/geomanist-black-italic-webfont.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C904BD634957413393C7E367 /* geomanist-black-italic-webfont.woff */ = {isa = PBXFileReference; name = "geomanist-black-italic-webfont.woff"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/geomanist-black-italic-webfont.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8A27B51F65ED4F8A848E64FD /* geomanist-black-italic-webfont.woff2 */ = {isa = PBXFileReference; name = "geomanist-black-italic-webfont.woff2"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/geomanist-black-italic-webfont.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A06F5163938444E493F9E22C /* grid_12-825-55-15.css */ = {isa = PBXFileReference; name = "grid_12-825-55-15.css"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/specimen_files/grid_12-825-55-15.css"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3F67787FBBDF46EC999EB47C /* specimen_stylesheet.css */ = {isa = PBXFileReference; name = "specimen_stylesheet.css"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/specimen_files/specimen_stylesheet.css"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		45488F0C82FD4DC5AF0CFD6D /* stylesheet.css */ = {isa = PBXFileReference; name = "stylesheet.css"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/stylesheet.css"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FCF7E487CADC4ED4A35F9B65 /* geomanist-black-demo.html */ = {isa = PBXFileReference; name = "geomanist-black-demo.html"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Webfont/geomanist-black-demo.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		17AB7983BF7E4B35AC9A144A /* geomanist-black-webfont.eot */ = {isa = PBXFileReference; name = "geomanist-black-webfont.eot"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Webfont/geomanist-black-webfont.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E2B0868B935C4A2EA19E96AD /* geomanist-black-webfont.svg */ = {isa = PBXFileReference; name = "geomanist-black-webfont.svg"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Webfont/geomanist-black-webfont.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		086694873CA24B8FB24E5751 /* geomanist-black-webfont.woff */ = {isa = PBXFileReference; name = "geomanist-black-webfont.woff"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Webfont/geomanist-black-webfont.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		11533323D5C1491E96A525A5 /* geomanist-black-webfont.woff2 */ = {isa = PBXFileReference; name = "geomanist-black-webfont.woff2"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Webfont/geomanist-black-webfont.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		04BAF81EDD6042CE92E97681 /* geomanist-bold-italic-demo.html */ = {isa = PBXFileReference; name = "geomanist-bold-italic-demo.html"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Italic-Webfont/geomanist-bold-italic-demo.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F9BF2E25AED1406B81470C28 /* geomanist-bold-italic-webfont.eot */ = {isa = PBXFileReference; name = "geomanist-bold-italic-webfont.eot"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Italic-Webfont/geomanist-bold-italic-webfont.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7DD4B9D6962C4BBD9795226B /* geomanist-bold-italic-webfont.svg */ = {isa = PBXFileReference; name = "geomanist-bold-italic-webfont.svg"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Italic-Webfont/geomanist-bold-italic-webfont.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4E21685F02CD4019A3962B28 /* geomanist-bold-italic-webfont.woff */ = {isa = PBXFileReference; name = "geomanist-bold-italic-webfont.woff"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Italic-Webfont/geomanist-bold-italic-webfont.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3C2533CFD15246FB874DBBB2 /* geomanist-bold-italic-webfont.woff2 */ = {isa = PBXFileReference; name = "geomanist-bold-italic-webfont.woff2"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Italic-Webfont/geomanist-bold-italic-webfont.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0B6B1ABD8CDF4FDEB8C26CF2 /* geomanist-bold-demo.html */ = {isa = PBXFileReference; name = "geomanist-bold-demo.html"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Webfont/geomanist-bold-demo.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5F4E3F6BEC80407BA9F42A27 /* geomanist-bold-webfont.eot */ = {isa = PBXFileReference; name = "geomanist-bold-webfont.eot"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Webfont/geomanist-bold-webfont.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D6D260FCA61C47AE9B249828 /* geomanist-bold-webfont.svg */ = {isa = PBXFileReference; name = "geomanist-bold-webfont.svg"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Webfont/geomanist-bold-webfont.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		19FACF3653124EF3B6960CAD /* geomanist-bold-webfont.woff */ = {isa = PBXFileReference; name = "geomanist-bold-webfont.woff"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Webfont/geomanist-bold-webfont.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7465DBD326564B42BD3DDD4B /* geomanist-bold-webfont.woff2 */ = {isa = PBXFileReference; name = "geomanist-bold-webfont.woff2"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Webfont/geomanist-bold-webfont.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AB3F41CBE7594E91B73A5901 /* geomanist-book-italic-demo.html */ = {isa = PBXFileReference; name = "geomanist-book-italic-demo.html"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Italic-Webfont/geomanist-book-italic-demo.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DFCFF7387CBF4189BFFCA704 /* geomanist-book-italic-webfont.eot */ = {isa = PBXFileReference; name = "geomanist-book-italic-webfont.eot"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Italic-Webfont/geomanist-book-italic-webfont.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E468C21C53D14CAD83535704 /* geomanist-book-italic-webfont.svg */ = {isa = PBXFileReference; name = "geomanist-book-italic-webfont.svg"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Italic-Webfont/geomanist-book-italic-webfont.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FAE044B33B3C404DAFD24F2E /* geomanist-book-italic-webfont.woff */ = {isa = PBXFileReference; name = "geomanist-book-italic-webfont.woff"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Italic-Webfont/geomanist-book-italic-webfont.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9FD536CF000B414FAAECD294 /* geomanist-book-italic-webfont.woff2 */ = {isa = PBXFileReference; name = "geomanist-book-italic-webfont.woff2"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Italic-Webfont/geomanist-book-italic-webfont.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D6568528F5D74D2D88C87B7F /* geomanist-book-demo.html */ = {isa = PBXFileReference; name = "geomanist-book-demo.html"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Webfont/geomanist-book-demo.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		040BB8CD0B93413C84600978 /* geomanist-book-webfont.eot */ = {isa = PBXFileReference; name = "geomanist-book-webfont.eot"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Webfont/geomanist-book-webfont.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3CD811C47EF5418C93C03E9F /* geomanist-book-webfont.svg */ = {isa = PBXFileReference; name = "geomanist-book-webfont.svg"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Webfont/geomanist-book-webfont.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		26705D93FE2C4E63AB01F1B9 /* geomanist-book-webfont.woff */ = {isa = PBXFileReference; name = "geomanist-book-webfont.woff"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Webfont/geomanist-book-webfont.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AB0EE34FA91D434FA99A68A9 /* geomanist-book-webfont.woff2 */ = {isa = PBXFileReference; name = "geomanist-book-webfont.woff2"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Webfont/geomanist-book-webfont.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		42BD774B05B64172B3E898DF /* geomanist-extralight-italic-demo.html */ = {isa = PBXFileReference; name = "geomanist-extralight-italic-demo.html"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Italic Webfont/geomanist-extralight-italic-demo.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		877024ED1258474FA382119C /* geomanist-extralight-italic-webfont.eot */ = {isa = PBXFileReference; name = "geomanist-extralight-italic-webfont.eot"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Italic Webfont/geomanist-extralight-italic-webfont.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7D5917D7A2324C00BE612E0D /* geomanist-extralight-italic-webfont.svg */ = {isa = PBXFileReference; name = "geomanist-extralight-italic-webfont.svg"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Italic Webfont/geomanist-extralight-italic-webfont.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6F61D155EB8D46B5936FE376 /* geomanist-extralight-italic-webfont.woff */ = {isa = PBXFileReference; name = "geomanist-extralight-italic-webfont.woff"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Italic Webfont/geomanist-extralight-italic-webfont.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		076D3FEA56874671A678FFCF /* geomanist-extralight-italic-webfont.woff2 */ = {isa = PBXFileReference; name = "geomanist-extralight-italic-webfont.woff2"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Italic Webfont/geomanist-extralight-italic-webfont.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6080256E94574D3EBBF4F80B /* geomanist-extralight-demo.html */ = {isa = PBXFileReference; name = "geomanist-extralight-demo.html"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Webfont/geomanist-extralight-demo.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AF7C651A84364F11B4798622 /* geomanist-extralight-webfont.eot */ = {isa = PBXFileReference; name = "geomanist-extralight-webfont.eot"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Webfont/geomanist-extralight-webfont.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		58654F01CB62478E8ACAB696 /* geomanist-extralight-webfont.svg */ = {isa = PBXFileReference; name = "geomanist-extralight-webfont.svg"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Webfont/geomanist-extralight-webfont.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		371A8BD4E83E4F08B8F82A45 /* geomanist-extralight-webfont.woff */ = {isa = PBXFileReference; name = "geomanist-extralight-webfont.woff"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Webfont/geomanist-extralight-webfont.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C13D014CBCFB40649EA76CA5 /* geomanist-extralight-webfont.woff2 */ = {isa = PBXFileReference; name = "geomanist-extralight-webfont.woff2"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Webfont/geomanist-extralight-webfont.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		92B87777213645BA8E7FCD24 /* geomanist-light-italic-demo.html */ = {isa = PBXFileReference; name = "geomanist-light-italic-demo.html"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Italic-Webfont/geomanist-light-italic-demo.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		34EF2C1A8B084957B9D5A156 /* geomanist-light-italic-webfont.eot */ = {isa = PBXFileReference; name = "geomanist-light-italic-webfont.eot"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Italic-Webfont/geomanist-light-italic-webfont.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		ED19ECD1D9BF43ADA2D12C64 /* geomanist-light-italic-webfont.svg */ = {isa = PBXFileReference; name = "geomanist-light-italic-webfont.svg"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Italic-Webfont/geomanist-light-italic-webfont.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		17409A67B87F4360B5819AB5 /* geomanist-light-italic-webfont.woff */ = {isa = PBXFileReference; name = "geomanist-light-italic-webfont.woff"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Italic-Webfont/geomanist-light-italic-webfont.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		137C99A4B515480A98751D02 /* geomanist-light-italic-webfont.woff2 */ = {isa = PBXFileReference; name = "geomanist-light-italic-webfont.woff2"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Italic-Webfont/geomanist-light-italic-webfont.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		ABED44B3D0934799BDEB261E /* geomanist-light-demo.html */ = {isa = PBXFileReference; name = "geomanist-light-demo.html"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Webfont/geomanist-light-demo.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1BE27CE85052410B9D048FC4 /* geomanist-light-webfont.eot */ = {isa = PBXFileReference; name = "geomanist-light-webfont.eot"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Webfont/geomanist-light-webfont.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4980427262664E73A14AAF21 /* geomanist-light-webfont.svg */ = {isa = PBXFileReference; name = "geomanist-light-webfont.svg"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Webfont/geomanist-light-webfont.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EE9550C0AFC5412C96DD705F /* geomanist-light-webfont.woff */ = {isa = PBXFileReference; name = "geomanist-light-webfont.woff"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Webfont/geomanist-light-webfont.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3625ECBADC4E449998427F3F /* geomanist-light-webfont.woff2 */ = {isa = PBXFileReference; name = "geomanist-light-webfont.woff2"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Webfont/geomanist-light-webfont.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D3B0504036E84ABBA14AD068 /* geomanist-medium-italic-demo.html */ = {isa = PBXFileReference; name = "geomanist-medium-italic-demo.html"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Italic-Webfont/geomanist-medium-italic-demo.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AE4AE1CB9D8D420B845F04C6 /* geomanist-medium-italic-webfont.eot */ = {isa = PBXFileReference; name = "geomanist-medium-italic-webfont.eot"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Italic-Webfont/geomanist-medium-italic-webfont.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D71672D4DA8547E2B000669E /* geomanist-medium-italic-webfont.svg */ = {isa = PBXFileReference; name = "geomanist-medium-italic-webfont.svg"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Italic-Webfont/geomanist-medium-italic-webfont.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		700A2EF80BB545D8A4465C67 /* geomanist-medium-italic-webfont.woff */ = {isa = PBXFileReference; name = "geomanist-medium-italic-webfont.woff"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Italic-Webfont/geomanist-medium-italic-webfont.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B67F7CCC1577427B9F5D1395 /* geomanist-medium-italic-webfont.woff2 */ = {isa = PBXFileReference; name = "geomanist-medium-italic-webfont.woff2"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Italic-Webfont/geomanist-medium-italic-webfont.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4BD0C7BB376D4300BD7DB683 /* geomanist-medium-demo.html */ = {isa = PBXFileReference; name = "geomanist-medium-demo.html"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Webfont/geomanist-medium-demo.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		87315FA0B1F34489BBB0BAA2 /* geomanist-medium-webfont.eot */ = {isa = PBXFileReference; name = "geomanist-medium-webfont.eot"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Webfont/geomanist-medium-webfont.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		369326175A0544449A81841D /* geomanist-medium-webfont.svg */ = {isa = PBXFileReference; name = "geomanist-medium-webfont.svg"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Webfont/geomanist-medium-webfont.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E0EE149BA42346F8B7757394 /* geomanist-medium-webfont.woff */ = {isa = PBXFileReference; name = "geomanist-medium-webfont.woff"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Webfont/geomanist-medium-webfont.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3F6D540670B14D9DA0617BF6 /* geomanist-medium-webfont.woff2 */ = {isa = PBXFileReference; name = "geomanist-medium-webfont.woff2"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Webfont/geomanist-medium-webfont.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CD858B5141FA4A16B8FE17EC /* geomanist-regular-italic-demo.html */ = {isa = PBXFileReference; name = "geomanist-regular-italic-demo.html"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Italic-Webfont/geomanist-regular-italic-demo.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		97E9BDFA7BF74882BBF25AF0 /* geomanist-regular-italic-webfont.eot */ = {isa = PBXFileReference; name = "geomanist-regular-italic-webfont.eot"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Italic-Webfont/geomanist-regular-italic-webfont.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5FE88A9AAF6549E88081E31D /* geomanist-regular-italic-webfont.svg */ = {isa = PBXFileReference; name = "geomanist-regular-italic-webfont.svg"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Italic-Webfont/geomanist-regular-italic-webfont.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6C3192E6091F4878992A4108 /* geomanist-regular-italic-webfont.woff */ = {isa = PBXFileReference; name = "geomanist-regular-italic-webfont.woff"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Italic-Webfont/geomanist-regular-italic-webfont.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4D755F74DA63419285E6D8FB /* geomanist-regular-italic-webfont.woff2 */ = {isa = PBXFileReference; name = "geomanist-regular-italic-webfont.woff2"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Italic-Webfont/geomanist-regular-italic-webfont.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7DFE5B5E8587422896967133 /* geomanist-regular-demo.html */ = {isa = PBXFileReference; name = "geomanist-regular-demo.html"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Webfont/geomanist-regular-demo.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		52632A7F7BA14994819B3919 /* geomanist-regular-webfont.eot */ = {isa = PBXFileReference; name = "geomanist-regular-webfont.eot"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Webfont/geomanist-regular-webfont.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		766DFFCDEC254D918A2A30A5 /* geomanist-regular-webfont.svg */ = {isa = PBXFileReference; name = "geomanist-regular-webfont.svg"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Webfont/geomanist-regular-webfont.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D7AA6088BD634EABAF925F69 /* geomanist-regular-webfont.woff */ = {isa = PBXFileReference; name = "geomanist-regular-webfont.woff"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Webfont/geomanist-regular-webfont.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1B10BBFF84CC40D79FB8670F /* geomanist-regular-webfont.woff2 */ = {isa = PBXFileReference; name = "geomanist-regular-webfont.woff2"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Webfont/geomanist-regular-webfont.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1212B2D32AEE48598BAC6E17 /* geomanist-thin-italic-demo.html */ = {isa = PBXFileReference; name = "geomanist-thin-italic-demo.html"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Italic-Webfont/geomanist-thin-italic-demo.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CAB9264A633047FE879E61E8 /* geomanist-thin-italic-webfont.eot */ = {isa = PBXFileReference; name = "geomanist-thin-italic-webfont.eot"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Italic-Webfont/geomanist-thin-italic-webfont.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		030478C160F34D43A6D046DC /* geomanist-thin-italic-webfont.svg */ = {isa = PBXFileReference; name = "geomanist-thin-italic-webfont.svg"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Italic-Webfont/geomanist-thin-italic-webfont.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CE357BF09DC646DEAA0BCBC2 /* geomanist-thin-italic-webfont.woff */ = {isa = PBXFileReference; name = "geomanist-thin-italic-webfont.woff"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Italic-Webfont/geomanist-thin-italic-webfont.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4B20ECBFFDF64C4298444E9C /* geomanist-thin-italic-webfont.woff2 */ = {isa = PBXFileReference; name = "geomanist-thin-italic-webfont.woff2"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Italic-Webfont/geomanist-thin-italic-webfont.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		60CCE0AB22A646EEB0C7E047 /* geomanist-thin-demo.html */ = {isa = PBXFileReference; name = "geomanist-thin-demo.html"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Webfont/geomanist-thin-demo.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4FEFA51123984516B5E2472E /* geomanist-thin-webfont.eot */ = {isa = PBXFileReference; name = "geomanist-thin-webfont.eot"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Webfont/geomanist-thin-webfont.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		89DAD1305019448698F279CA /* geomanist-thin-webfont.svg */ = {isa = PBXFileReference; name = "geomanist-thin-webfont.svg"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Webfont/geomanist-thin-webfont.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		80132F7E515846ECB6B328D6 /* geomanist-thin-webfont.woff */ = {isa = PBXFileReference; name = "geomanist-thin-webfont.woff"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Webfont/geomanist-thin-webfont.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4F1EB9C4113A4213971B4D24 /* geomanist-thin-webfont.woff2 */ = {isa = PBXFileReference; name = "geomanist-thin-webfont.woff2"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Webfont/geomanist-thin-webfont.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		504FE882DCE04C06B102C92A /* geomanist-ultra-italic-demo.html */ = {isa = PBXFileReference; name = "geomanist-ultra-italic-demo.html"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Italic-Webfont/geomanist-ultra-italic-demo.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9E303E2D334F44778738BB7E /* geomanist-ultra-italic-webfont.eot */ = {isa = PBXFileReference; name = "geomanist-ultra-italic-webfont.eot"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Italic-Webfont/geomanist-ultra-italic-webfont.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		66687A9F6AF84B11BD3DCE49 /* geomanist-ultra-italic-webfont.svg */ = {isa = PBXFileReference; name = "geomanist-ultra-italic-webfont.svg"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Italic-Webfont/geomanist-ultra-italic-webfont.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EE2765EB27E54442881CCD2F /* geomanist-ultra-italic-webfont.woff */ = {isa = PBXFileReference; name = "geomanist-ultra-italic-webfont.woff"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Italic-Webfont/geomanist-ultra-italic-webfont.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7BBA709AE3EF4059AEC23C51 /* geomanist-ultra-italic-webfont.woff2 */ = {isa = PBXFileReference; name = "geomanist-ultra-italic-webfont.woff2"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Italic-Webfont/geomanist-ultra-italic-webfont.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8202D6854B4D4C18BAB08CD1 /* geomanist-ultra-demo.html */ = {isa = PBXFileReference; name = "geomanist-ultra-demo.html"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Webfont/geomanist-ultra-demo.html"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B00E901A491D4F1A95A5EC2D /* geomanist-ultra-webfont.eot */ = {isa = PBXFileReference; name = "geomanist-ultra-webfont.eot"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Webfont/geomanist-ultra-webfont.eot"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		312C5D0BE908435AAB237B58 /* geomanist-ultra-webfont.svg */ = {isa = PBXFileReference; name = "geomanist-ultra-webfont.svg"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Webfont/geomanist-ultra-webfont.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E1E537E715BE43B79AEFF45B /* geomanist-ultra-webfont.woff */ = {isa = PBXFileReference; name = "geomanist-ultra-webfont.woff"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Webfont/geomanist-ultra-webfont.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E505241294A140E9AE7F242D /* geomanist-ultra-webfont.woff2 */ = {isa = PBXFileReference; name = "geomanist-ultra-webfont.woff2"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Webfont/geomanist-ultra-webfont.woff2"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9D66E4F87BA847C38F3AC994 /* geomanist_webfont_license.pdf */ = {isa = PBXFileReference; name = "geomanist_webfont_license.pdf"; path = "../src/assets/fonts/Geomanist-Complete-Webfont/geomanist_webfont_license.pdf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B8D8DD36104F47C9B0B8CFAA /* Adobe Garamond Pro Bold.otf */ = {isa = PBXFileReference; name = "Adobe Garamond Pro Bold.otf"; path = "../src/assets/fonts/Adobe Garamond Pro Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		00EE0F4EC6994A0CBF89A5DA /* EB Garamond.ttf */ = {isa = PBXFileReference; name = "EB Garamond.ttf"; path = "../src/assets/fonts/EB Garamond.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +389,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				9E822E147FAD44F0ABEE39C1 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -97,6 +412,171 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		9E822E147FAD44F0ABEE39C1 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				63F042CA12FD49DC8929D863 /* AGaramondPro-BoldItalic.otf */,
+				11F6DDCF3BB444FFA909D818 /* AGaramondPro-Italic.otf */,
+				4687864405AD4F21B5D1072A /* AGaramondPro-Regular.otf */,
+				97476F4C5B0B488FA6F846D1 /* AGaramondPro-SemiboldItalic.otf */,
+				01C48D95AD494DCB92BC9FE0 /* Canopee.otf */,
+				90046FF5F7964D1D9B72199F /* Geomanist-Book.otf */,
+				763A0BA2D9CD4D58BE71F50C /* Geomanist-Black-Italic.otf */,
+				995B76A9487C486C9D48CEA5 /* Geomanist-Black.otf */,
+				965C27AB947F4390A623F06B /* Geomanist-Bold-Italic.otf */,
+				35139DF336914D53A2429161 /* Geomanist-Bold.otf */,
+				97DFEEE538844265850CF829 /* Geomanist-Book-Italic.otf */,
+				B3D52877EB904A1BA1BF3D0C /* Geomanist-ExtraLight-Italic.otf */,
+				FE3422ECCC464F7384073D1A /* Geomanist-ExtraLight.otf */,
+				4E6FD23C69464203BAD6ED89 /* Geomanist-Light-Italic.otf */,
+				D1D777E6F0634A279E8228EE /* Geomanist-Light.otf */,
+				894D7B6BCBFE428383EA7F3B /* Geomanist-Medium-Italic.otf */,
+				91A90640E10043389F8EB17E /* Geomanist-Medium.otf */,
+				031CC5436FC643F8A8B09917 /* Geomanist-Regular-Italic.otf */,
+				C99624E8321F460FBCD14DCB /* Geomanist-Regular.otf */,
+				5B63A50D0DF8418F8AE726A1 /* Geomanist-Thin-Italic.otf */,
+				AE8F2CD047ED4C288675655E /* Geomanist-Thin.otf */,
+				07252ED8387F4016B0BDBFA6 /* Geomanist-Ultra-Italic.otf */,
+				27E8D901CFA740EC91F055FC /* Geomanist-Ultra.otf */,
+				78DA9215244348F1A9F510CA /* Monotype  - Helvetica Now Display.otf */,
+				6BDEC1D698514AC0B5926965 /* MyriadPro-Regular.otf */,
+				6F8E639563194268BCC29A9F /* Avenir Black Oblique.ttf */,
+				9D27B84C75104DA3B4664B52 /* Avenir Book Oblique.ttf */,
+				733B600A2B8348678B1224A3 /* Avenir Medium.ttf */,
+				68F1CC5239394710A364801E /* Avenir-Black.ttf */,
+				585D655921364C25818170DA /* Avenir-Medium.ttf */,
+				B0D26440A6374387A8AFD355 /* Avenir-Oblique.ttf */,
+				BBE825FF92754CAABFFC93B8 /* Avenir-Roman.ttf */,
+				32ECF91FB7EB4C5F883AC719 /* Avenir_85_Heavy.ttf */,
+				5AD14163B7404554AC632347 /* Avenir_95_Black.ttf */,
+				66D02FB9105E477C95DE2B01 /* geomanist-black-italic-webfont.ttf */,
+				3CBD466EF3A947BEAFD901D5 /* geomanist-black-webfont.ttf */,
+				9AFFFCE41C774C5B94AA1BB8 /* geomanist-bold-italic-webfont.ttf */,
+				26E82445A62E4696AEEA814A /* geomanist-bold-webfont.ttf */,
+				93FA0EF0DF084F8F884E3F4E /* geomanist-book-italic-webfont.ttf */,
+				BB5335C2FF05463495DB4F26 /* geomanist-book-webfont.ttf */,
+				F9646A5FB1DD404E99BA7970 /* geomanist-extralight-italic-webfont.ttf */,
+				20883BB92849489297220CDF /* geomanist-extralight-webfont.ttf */,
+				3B58DDFF1E04463898953ED2 /* geomanist-light-italic-webfont.ttf */,
+				BF5B5E17A8744B81B6275BF9 /* geomanist-light-webfont.ttf */,
+				089083AE12C74769959D5301 /* geomanist-medium-italic-webfont.ttf */,
+				10E75BAD22594A5196E003C2 /* geomanist-medium-webfont.ttf */,
+				8981B8D76128447B80C9D821 /* geomanist-regular-italic-webfont.ttf */,
+				119FDB20698241D2ACD7937F /* geomanist-regular-webfont.ttf */,
+				D8CD28381B7D480FA4955709 /* geomanist-thin-italic-webfont.ttf */,
+				1BE9A9339C5C44ADA34F7F76 /* geomanist-thin-webfont.ttf */,
+				18C63EB6948B4DBD9FFD6838 /* geomanist-ultra-italic-webfont.ttf */,
+				0F8FE0C6E20F48FEB614F92E /* geomanist-ultra-webfont.ttf */,
+				4C1E9BE81809443596B90C63 /* Avenir.ttc */,
+				E970C2E14E50425B9218EE12 /* EULA_VJ-TYPE.pdf */,
+				BE24D6840BAE4DE8A849CCB7 /* VJ-TYPE_CANOPEE-SPECIMEN.pdf */,
+				683706F2A17144B28E2C6978 /* VJ-TYPE_HOWTOUSE_CANOPEE.pdf */,
+				FE62B800D760468AA80EF6EA /* Canopee.eot */,
+				134F06386D774733B21C7ED0 /* Canopee.woff */,
+				E89480CE4DD44FF0862C7582 /* Canopee.woff2 */,
+				8BB1CE57005E435DBEC44AC9 /* geomanist_desktop_license.pdf */,
+				B6ED14E6B450469C837DF533 /* generator_config.txt */,
+				4A989F11993F48FA9FE1103D /* geomanist-black-italic-demo.html */,
+				55E106B169474B50AB5BA8E2 /* geomanist-black-italic-webfont.eot */,
+				8DE3DCB3F6E54EFCB7DF34FF /* geomanist-black-italic-webfont.svg */,
+				C904BD634957413393C7E367 /* geomanist-black-italic-webfont.woff */,
+				8A27B51F65ED4F8A848E64FD /* geomanist-black-italic-webfont.woff2 */,
+				A06F5163938444E493F9E22C /* grid_12-825-55-15.css */,
+				3F67787FBBDF46EC999EB47C /* specimen_stylesheet.css */,
+				45488F0C82FD4DC5AF0CFD6D /* stylesheet.css */,
+				FCF7E487CADC4ED4A35F9B65 /* geomanist-black-demo.html */,
+				17AB7983BF7E4B35AC9A144A /* geomanist-black-webfont.eot */,
+				E2B0868B935C4A2EA19E96AD /* geomanist-black-webfont.svg */,
+				086694873CA24B8FB24E5751 /* geomanist-black-webfont.woff */,
+				11533323D5C1491E96A525A5 /* geomanist-black-webfont.woff2 */,
+				04BAF81EDD6042CE92E97681 /* geomanist-bold-italic-demo.html */,
+				F9BF2E25AED1406B81470C28 /* geomanist-bold-italic-webfont.eot */,
+				7DD4B9D6962C4BBD9795226B /* geomanist-bold-italic-webfont.svg */,
+				4E21685F02CD4019A3962B28 /* geomanist-bold-italic-webfont.woff */,
+				3C2533CFD15246FB874DBBB2 /* geomanist-bold-italic-webfont.woff2 */,
+				0B6B1ABD8CDF4FDEB8C26CF2 /* geomanist-bold-demo.html */,
+				5F4E3F6BEC80407BA9F42A27 /* geomanist-bold-webfont.eot */,
+				D6D260FCA61C47AE9B249828 /* geomanist-bold-webfont.svg */,
+				19FACF3653124EF3B6960CAD /* geomanist-bold-webfont.woff */,
+				7465DBD326564B42BD3DDD4B /* geomanist-bold-webfont.woff2 */,
+				AB3F41CBE7594E91B73A5901 /* geomanist-book-italic-demo.html */,
+				DFCFF7387CBF4189BFFCA704 /* geomanist-book-italic-webfont.eot */,
+				E468C21C53D14CAD83535704 /* geomanist-book-italic-webfont.svg */,
+				FAE044B33B3C404DAFD24F2E /* geomanist-book-italic-webfont.woff */,
+				9FD536CF000B414FAAECD294 /* geomanist-book-italic-webfont.woff2 */,
+				D6568528F5D74D2D88C87B7F /* geomanist-book-demo.html */,
+				040BB8CD0B93413C84600978 /* geomanist-book-webfont.eot */,
+				3CD811C47EF5418C93C03E9F /* geomanist-book-webfont.svg */,
+				26705D93FE2C4E63AB01F1B9 /* geomanist-book-webfont.woff */,
+				AB0EE34FA91D434FA99A68A9 /* geomanist-book-webfont.woff2 */,
+				42BD774B05B64172B3E898DF /* geomanist-extralight-italic-demo.html */,
+				877024ED1258474FA382119C /* geomanist-extralight-italic-webfont.eot */,
+				7D5917D7A2324C00BE612E0D /* geomanist-extralight-italic-webfont.svg */,
+				6F61D155EB8D46B5936FE376 /* geomanist-extralight-italic-webfont.woff */,
+				076D3FEA56874671A678FFCF /* geomanist-extralight-italic-webfont.woff2 */,
+				6080256E94574D3EBBF4F80B /* geomanist-extralight-demo.html */,
+				AF7C651A84364F11B4798622 /* geomanist-extralight-webfont.eot */,
+				58654F01CB62478E8ACAB696 /* geomanist-extralight-webfont.svg */,
+				371A8BD4E83E4F08B8F82A45 /* geomanist-extralight-webfont.woff */,
+				C13D014CBCFB40649EA76CA5 /* geomanist-extralight-webfont.woff2 */,
+				92B87777213645BA8E7FCD24 /* geomanist-light-italic-demo.html */,
+				34EF2C1A8B084957B9D5A156 /* geomanist-light-italic-webfont.eot */,
+				ED19ECD1D9BF43ADA2D12C64 /* geomanist-light-italic-webfont.svg */,
+				17409A67B87F4360B5819AB5 /* geomanist-light-italic-webfont.woff */,
+				137C99A4B515480A98751D02 /* geomanist-light-italic-webfont.woff2 */,
+				ABED44B3D0934799BDEB261E /* geomanist-light-demo.html */,
+				1BE27CE85052410B9D048FC4 /* geomanist-light-webfont.eot */,
+				4980427262664E73A14AAF21 /* geomanist-light-webfont.svg */,
+				EE9550C0AFC5412C96DD705F /* geomanist-light-webfont.woff */,
+				3625ECBADC4E449998427F3F /* geomanist-light-webfont.woff2 */,
+				D3B0504036E84ABBA14AD068 /* geomanist-medium-italic-demo.html */,
+				AE4AE1CB9D8D420B845F04C6 /* geomanist-medium-italic-webfont.eot */,
+				D71672D4DA8547E2B000669E /* geomanist-medium-italic-webfont.svg */,
+				700A2EF80BB545D8A4465C67 /* geomanist-medium-italic-webfont.woff */,
+				B67F7CCC1577427B9F5D1395 /* geomanist-medium-italic-webfont.woff2 */,
+				4BD0C7BB376D4300BD7DB683 /* geomanist-medium-demo.html */,
+				87315FA0B1F34489BBB0BAA2 /* geomanist-medium-webfont.eot */,
+				369326175A0544449A81841D /* geomanist-medium-webfont.svg */,
+				E0EE149BA42346F8B7757394 /* geomanist-medium-webfont.woff */,
+				3F6D540670B14D9DA0617BF6 /* geomanist-medium-webfont.woff2 */,
+				CD858B5141FA4A16B8FE17EC /* geomanist-regular-italic-demo.html */,
+				97E9BDFA7BF74882BBF25AF0 /* geomanist-regular-italic-webfont.eot */,
+				5FE88A9AAF6549E88081E31D /* geomanist-regular-italic-webfont.svg */,
+				6C3192E6091F4878992A4108 /* geomanist-regular-italic-webfont.woff */,
+				4D755F74DA63419285E6D8FB /* geomanist-regular-italic-webfont.woff2 */,
+				7DFE5B5E8587422896967133 /* geomanist-regular-demo.html */,
+				52632A7F7BA14994819B3919 /* geomanist-regular-webfont.eot */,
+				766DFFCDEC254D918A2A30A5 /* geomanist-regular-webfont.svg */,
+				D7AA6088BD634EABAF925F69 /* geomanist-regular-webfont.woff */,
+				1B10BBFF84CC40D79FB8670F /* geomanist-regular-webfont.woff2 */,
+				1212B2D32AEE48598BAC6E17 /* geomanist-thin-italic-demo.html */,
+				CAB9264A633047FE879E61E8 /* geomanist-thin-italic-webfont.eot */,
+				030478C160F34D43A6D046DC /* geomanist-thin-italic-webfont.svg */,
+				CE357BF09DC646DEAA0BCBC2 /* geomanist-thin-italic-webfont.woff */,
+				4B20ECBFFDF64C4298444E9C /* geomanist-thin-italic-webfont.woff2 */,
+				60CCE0AB22A646EEB0C7E047 /* geomanist-thin-demo.html */,
+				4FEFA51123984516B5E2472E /* geomanist-thin-webfont.eot */,
+				89DAD1305019448698F279CA /* geomanist-thin-webfont.svg */,
+				80132F7E515846ECB6B328D6 /* geomanist-thin-webfont.woff */,
+				4F1EB9C4113A4213971B4D24 /* geomanist-thin-webfont.woff2 */,
+				504FE882DCE04C06B102C92A /* geomanist-ultra-italic-demo.html */,
+				9E303E2D334F44778738BB7E /* geomanist-ultra-italic-webfont.eot */,
+				66687A9F6AF84B11BD3DCE49 /* geomanist-ultra-italic-webfont.svg */,
+				EE2765EB27E54442881CCD2F /* geomanist-ultra-italic-webfont.woff */,
+				7BBA709AE3EF4059AEC23C51 /* geomanist-ultra-italic-webfont.woff2 */,
+				8202D6854B4D4C18BAB08CD1 /* geomanist-ultra-demo.html */,
+				B00E901A491D4F1A95A5EC2D /* geomanist-ultra-webfont.eot */,
+				312C5D0BE908435AAB237B58 /* geomanist-ultra-webfont.svg */,
+				E1E537E715BE43B79AEFF45B /* geomanist-ultra-webfont.woff */,
+				E505241294A140E9AE7F242D /* geomanist-ultra-webfont.woff2 */,
+				9D66E4F87BA847C38F3AC994 /* geomanist_webfont_license.pdf */,
+				B8D8DD36104F47C9B0B8CFAA /* Adobe Garamond Pro Bold.otf */,
+				00EE0F4EC6994A0CBF89A5DA /* EB Garamond.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -161,6 +641,163 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				64F35EC36EBE75E1C040FF0F /* PrivacyInfo.xcprivacy in Resources */,
+				F56AAB116B3B426FAAEE4A7B /* AGaramondPro-BoldItalic.otf in Resources */,
+				AB7DE50E3CE4461E98F84E35 /* AGaramondPro-Italic.otf in Resources */,
+				456F1EF29BA8465EBC66D95B /* AGaramondPro-Regular.otf in Resources */,
+				8A031372256B4EB0BFC9B6A7 /* AGaramondPro-SemiboldItalic.otf in Resources */,
+				2074BB0FC3DD41D5BEFDDACA /* Canopee.otf in Resources */,
+				5A199EB805884BB194EB9343 /* Geomanist-Book.otf in Resources */,
+				637C344D241F4996A676D2EE /* Geomanist-Black-Italic.otf in Resources */,
+				CA1D79752600466CB8D1D682 /* Geomanist-Black.otf in Resources */,
+				930E6F15EFC1426BAB0EAB55 /* Geomanist-Bold-Italic.otf in Resources */,
+				2446910965984F63A60EEB26 /* Geomanist-Bold.otf in Resources */,
+				0B1BB26070D2444B947B48EB /* Geomanist-Book-Italic.otf in Resources */,
+				6008A651CF8C4852B9359F4E /* Geomanist-ExtraLight-Italic.otf in Resources */,
+				DF4AE83237DA49B98D608A08 /* Geomanist-ExtraLight.otf in Resources */,
+				7DECB5E4079E45239D3BE195 /* Geomanist-Light-Italic.otf in Resources */,
+				E41707AB5B5146C9AE4F9BD4 /* Geomanist-Light.otf in Resources */,
+				77AC3CF273B747EDBC494522 /* Geomanist-Medium-Italic.otf in Resources */,
+				C0B56BA2367E4CA68ADD5DC5 /* Geomanist-Medium.otf in Resources */,
+				7124C24B8A1D45CBAC75BD59 /* Geomanist-Regular-Italic.otf in Resources */,
+				D33D2181EFE447299A1373E1 /* Geomanist-Regular.otf in Resources */,
+				0F3BBA8C7670405285138B72 /* Geomanist-Thin-Italic.otf in Resources */,
+				A1B7D4A6C41B4CC9BA794ACE /* Geomanist-Thin.otf in Resources */,
+				5D503D5A79784B299DB66EAE /* Geomanist-Ultra-Italic.otf in Resources */,
+				78DA8E67813444ECB0CFBDC6 /* Geomanist-Ultra.otf in Resources */,
+				060D11AB42B5450CB0EBD158 /* Monotype  - Helvetica Now Display.otf in Resources */,
+				F852E4C63132460E8033892F /* MyriadPro-Regular.otf in Resources */,
+				6A71A9FF1A3C41648CC09B62 /* Avenir Black Oblique.ttf in Resources */,
+				B172D91ADD684334866F43AF /* Avenir Book Oblique.ttf in Resources */,
+				C0C2CBF012BB4A74BF049DEA /* Avenir Medium.ttf in Resources */,
+				D800E0E536524E329978ABA6 /* Avenir-Black.ttf in Resources */,
+				93B892AF63124FF3B4E79F84 /* Avenir-Medium.ttf in Resources */,
+				48B2E433D4B54AF7BBD70A91 /* Avenir-Oblique.ttf in Resources */,
+				5D48D94ABC3E45D29A55C5F8 /* Avenir-Roman.ttf in Resources */,
+				5FAE42956FD54E07B0F3521D /* Avenir_85_Heavy.ttf in Resources */,
+				D0004DD6F84E4AD6B9540D86 /* Avenir_95_Black.ttf in Resources */,
+				34668901D7ED46B992E09602 /* geomanist-black-italic-webfont.ttf in Resources */,
+				9E4F647A86FC43899E721C2A /* geomanist-black-webfont.ttf in Resources */,
+				3D857FC5BAAA4DB599751FBC /* geomanist-bold-italic-webfont.ttf in Resources */,
+				CC388C6A4FEB421D83A2F514 /* geomanist-bold-webfont.ttf in Resources */,
+				DB306B0D1BAD41D0A91762E6 /* geomanist-book-italic-webfont.ttf in Resources */,
+				0DEF488BACE9464F9A02202E /* geomanist-book-webfont.ttf in Resources */,
+				E178B2DC83684F89BC5B1D3C /* geomanist-extralight-italic-webfont.ttf in Resources */,
+				992FF94D8A13472BBC904DE4 /* geomanist-extralight-webfont.ttf in Resources */,
+				A10298B2E3454711A99ACC55 /* geomanist-light-italic-webfont.ttf in Resources */,
+				929C66CEDA1040D29D7336F1 /* geomanist-light-webfont.ttf in Resources */,
+				2C10604FD6D6466298714963 /* geomanist-medium-italic-webfont.ttf in Resources */,
+				ACE297F4A61A41F191F2077F /* geomanist-medium-webfont.ttf in Resources */,
+				FB5B8372C06649D9A36411CD /* geomanist-regular-italic-webfont.ttf in Resources */,
+				62CEF4D118C4410B90BAE83C /* geomanist-regular-webfont.ttf in Resources */,
+				AE8EB3BDCFC048D39383F59C /* geomanist-thin-italic-webfont.ttf in Resources */,
+				B9596CFB822E4D659B1DAEBA /* geomanist-thin-webfont.ttf in Resources */,
+				6A1F3AEEA4BC4777884AE600 /* geomanist-ultra-italic-webfont.ttf in Resources */,
+				420FA73F60A34B46841BDD6D /* geomanist-ultra-webfont.ttf in Resources */,
+				F906DF173B4B4A4A8502B672 /* Avenir.ttc in Resources */,
+				D1BFA5964CF14FD695A2F8D4 /* EULA_VJ-TYPE.pdf in Resources */,
+				1461475551924487AE08F99F /* VJ-TYPE_CANOPEE-SPECIMEN.pdf in Resources */,
+				7F6F8ABB650A4A278FF61B5C /* VJ-TYPE_HOWTOUSE_CANOPEE.pdf in Resources */,
+				83B36E3818B0489BBE5A1AD5 /* Canopee.eot in Resources */,
+				58F2CA92AAE545868AC5BF01 /* Canopee.woff in Resources */,
+				BA4D024F0CBD4E48A16F5388 /* Canopee.woff2 in Resources */,
+				08F2BC71F0DC4CA6BE5B62AA /* geomanist_desktop_license.pdf in Resources */,
+				A7055826B1504E1CBB3020FD /* generator_config.txt in Resources */,
+				E8B081E17E464F8DBEFD310F /* geomanist-black-italic-demo.html in Resources */,
+				35DAD2E1B0B94F6A8D8CF813 /* geomanist-black-italic-webfont.eot in Resources */,
+				CF1C50F671C94E738C4EB3AC /* geomanist-black-italic-webfont.svg in Resources */,
+				4A1FA3548BF949F89127E695 /* geomanist-black-italic-webfont.woff in Resources */,
+				D22484BD9ABC4525BE064859 /* geomanist-black-italic-webfont.woff2 in Resources */,
+				25E3219514A14A06B9D47C25 /* grid_12-825-55-15.css in Resources */,
+				485D3CC8F1E146E4B75B4686 /* specimen_stylesheet.css in Resources */,
+				A1369BCC65084E76A89DBBA3 /* stylesheet.css in Resources */,
+				4674C62FC6D74BE3B31798BD /* geomanist-black-demo.html in Resources */,
+				29A7D462703F47FEB4344C72 /* geomanist-black-webfont.eot in Resources */,
+				9E658E441025480BAD11CB6A /* geomanist-black-webfont.svg in Resources */,
+				16478B741924485B8D29FB1D /* geomanist-black-webfont.woff in Resources */,
+				3F77FF6783414969AD4FEF16 /* geomanist-black-webfont.woff2 in Resources */,
+				FD2FF548F03B4818B502B43D /* geomanist-bold-italic-demo.html in Resources */,
+				2CC8DC9CD8A24AA5A46E42E1 /* geomanist-bold-italic-webfont.eot in Resources */,
+				DF9347C2C5C8403CA15FCC26 /* geomanist-bold-italic-webfont.svg in Resources */,
+				58B37ED95AD8476A83D69F81 /* geomanist-bold-italic-webfont.woff in Resources */,
+				01E67FC7401A4A65B5D07D3B /* geomanist-bold-italic-webfont.woff2 in Resources */,
+				37553FFFAD814947BECD4249 /* geomanist-bold-demo.html in Resources */,
+				9110F60B9509471CAF272F53 /* geomanist-bold-webfont.eot in Resources */,
+				6629ADE8A4804E1BB1E7C326 /* geomanist-bold-webfont.svg in Resources */,
+				B2C00669FD5D4316A211863A /* geomanist-bold-webfont.woff in Resources */,
+				E18301F954AC46C08AF17F19 /* geomanist-bold-webfont.woff2 in Resources */,
+				2D1D6E50557F46C4BB51F671 /* geomanist-book-italic-demo.html in Resources */,
+				9A12C7E731084CF8B6A3FF32 /* geomanist-book-italic-webfont.eot in Resources */,
+				0BA1DA45DF434B418A091FC4 /* geomanist-book-italic-webfont.svg in Resources */,
+				0298C3AAA3D544658976F44E /* geomanist-book-italic-webfont.woff in Resources */,
+				B4FE88A2B86A43399BC9EE50 /* geomanist-book-italic-webfont.woff2 in Resources */,
+				15AC881A25F8485CB27238A0 /* geomanist-book-demo.html in Resources */,
+				9E54568FFAD5477F84E9AEF9 /* geomanist-book-webfont.eot in Resources */,
+				34F981AEA70844718F5A083C /* geomanist-book-webfont.svg in Resources */,
+				FAF4157E70E947BC9DEC3AE2 /* geomanist-book-webfont.woff in Resources */,
+				AF80D61018BD4F338ACD065E /* geomanist-book-webfont.woff2 in Resources */,
+				0B62031117EE4BBC9D8BEBB3 /* geomanist-extralight-italic-demo.html in Resources */,
+				AAFCB0BA54F64E12B9C18843 /* geomanist-extralight-italic-webfont.eot in Resources */,
+				35DC047F236E46BDA30E5F73 /* geomanist-extralight-italic-webfont.svg in Resources */,
+				8FE626D238DA48CB9D298F59 /* geomanist-extralight-italic-webfont.woff in Resources */,
+				8C8E1A0805BE4C34B7610D88 /* geomanist-extralight-italic-webfont.woff2 in Resources */,
+				13543AA0169F45498EE9C282 /* geomanist-extralight-demo.html in Resources */,
+				3231F8AB94C443D7B4E9E018 /* geomanist-extralight-webfont.eot in Resources */,
+				0B258BA156C14783AF11B675 /* geomanist-extralight-webfont.svg in Resources */,
+				A815DC4EE8094CEDAD1EB25F /* geomanist-extralight-webfont.woff in Resources */,
+				D9049EAAEC28484084515B1D /* geomanist-extralight-webfont.woff2 in Resources */,
+				A07CAB27A15F4F02B711292A /* geomanist-light-italic-demo.html in Resources */,
+				A2BA29FDA0C74214B768E4AD /* geomanist-light-italic-webfont.eot in Resources */,
+				473562F682CA4E62A3646BD7 /* geomanist-light-italic-webfont.svg in Resources */,
+				A9A8736FC22A453288FF06A1 /* geomanist-light-italic-webfont.woff in Resources */,
+				B3651CF69FCB40F39D53F128 /* geomanist-light-italic-webfont.woff2 in Resources */,
+				99BF297DF5D1401792C4F71A /* geomanist-light-demo.html in Resources */,
+				BF69B442CB9F43E0A91BC22E /* geomanist-light-webfont.eot in Resources */,
+				4B4494A724234BC4B3EEAFCF /* geomanist-light-webfont.svg in Resources */,
+				756D62AB0EF5443194B2CF74 /* geomanist-light-webfont.woff in Resources */,
+				AE014A0098DB467380CC6CA1 /* geomanist-light-webfont.woff2 in Resources */,
+				B307F91915844A52AA0D0DED /* geomanist-medium-italic-demo.html in Resources */,
+				07862DE1358547C8AE6CC34C /* geomanist-medium-italic-webfont.eot in Resources */,
+				615E7CBD55AB4BB9AD37EF3D /* geomanist-medium-italic-webfont.svg in Resources */,
+				8D029D2CEC8A4D119FA1147F /* geomanist-medium-italic-webfont.woff in Resources */,
+				A9342B3CD268437CADE7A1F7 /* geomanist-medium-italic-webfont.woff2 in Resources */,
+				6535AFA33AB44868AD4A6C0F /* geomanist-medium-demo.html in Resources */,
+				948AD04CDE9B4E089ED63FD5 /* geomanist-medium-webfont.eot in Resources */,
+				FF0C7D0D83CF460482AF3386 /* geomanist-medium-webfont.svg in Resources */,
+				5EDB8784E38A4C3B8C739540 /* geomanist-medium-webfont.woff in Resources */,
+				EDF50286C3BA47ACAC24453F /* geomanist-medium-webfont.woff2 in Resources */,
+				84755A675CA640B7897433FE /* geomanist-regular-italic-demo.html in Resources */,
+				1093A0D056BA41BA97D7503E /* geomanist-regular-italic-webfont.eot in Resources */,
+				08A7C66847F84223A27299FD /* geomanist-regular-italic-webfont.svg in Resources */,
+				CCCB3FE77E4B41A39AF38EA4 /* geomanist-regular-italic-webfont.woff in Resources */,
+				2F7B683706C54EED9450DFDD /* geomanist-regular-italic-webfont.woff2 in Resources */,
+				5BE78EDF5A714E6281CB4C7A /* geomanist-regular-demo.html in Resources */,
+				C63E193B8A3141FBAB5C541F /* geomanist-regular-webfont.eot in Resources */,
+				B3A916C353F94D4CAB7214A9 /* geomanist-regular-webfont.svg in Resources */,
+				26907F8E8B2B4A1499C5EBBC /* geomanist-regular-webfont.woff in Resources */,
+				165327A99B4241BB9DCCDD45 /* geomanist-regular-webfont.woff2 in Resources */,
+				1712FF6679A74145B404705A /* geomanist-thin-italic-demo.html in Resources */,
+				E2DA6136454947BD8C87F01F /* geomanist-thin-italic-webfont.eot in Resources */,
+				C3A2ABB8D1CF473FB51B9A94 /* geomanist-thin-italic-webfont.svg in Resources */,
+				81E9FAF9EAAD4E8FB1C07116 /* geomanist-thin-italic-webfont.woff in Resources */,
+				D58EE9655EA441DE88B353D9 /* geomanist-thin-italic-webfont.woff2 in Resources */,
+				51FB704A60A648B789CD481B /* geomanist-thin-demo.html in Resources */,
+				1BD25B3DA54B4E649FA63863 /* geomanist-thin-webfont.eot in Resources */,
+				B8D89C476A7C4CBEB00E4F90 /* geomanist-thin-webfont.svg in Resources */,
+				0937042FF3CC4FF3A73D5E06 /* geomanist-thin-webfont.woff in Resources */,
+				CCB61F4CE52346588A316BA5 /* geomanist-thin-webfont.woff2 in Resources */,
+				A4C400EE46784F3299703AF7 /* geomanist-ultra-italic-demo.html in Resources */,
+				20AE36FAE39F46FDB094BF11 /* geomanist-ultra-italic-webfont.eot in Resources */,
+				1AD62EBF1CCA4528B3F97A92 /* geomanist-ultra-italic-webfont.svg in Resources */,
+				250EC8002AF4451487DD5C03 /* geomanist-ultra-italic-webfont.woff in Resources */,
+				7CCEBA102EE9419D83BCD842 /* geomanist-ultra-italic-webfont.woff2 in Resources */,
+				BCC38504AFA44421908A286B /* geomanist-ultra-demo.html in Resources */,
+				77E4D77496714C94B3214DC8 /* geomanist-ultra-webfont.eot in Resources */,
+				2A52ED4AE74943FB88F6215D /* geomanist-ultra-webfont.svg in Resources */,
+				3E474FECCC1049BD89B75E65 /* geomanist-ultra-webfont.woff in Resources */,
+				24F57AC0FCDF41F1B431900B /* geomanist-ultra-webfont.woff2 in Resources */,
+				6049C7B6963F435A91F709D4 /* geomanist_webfont_license.pdf in Resources */,
+				0814BE52ED8444ABB5B8B80A /* Adobe Garamond Pro Bold.otf in Resources */,
+				ED230318F10A4C97981AF223 /* EB Garamond.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

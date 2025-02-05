@@ -26,14 +26,13 @@
 	<true/>
 	<key>NSAppTransportSecurity</key>
 	<dict>
-	  <!-- Do not change NSAllowsArbitraryLoads to true, or you will risk app rejection! -->
 		<key>NSAllowsArbitraryLoads</key>
 		<false/>
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -48,5 +47,81 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AntDesign.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Regular.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>FontAwesome6_Brands.ttf</string>
+		<string>FontAwesome6_Regular.ttf</string>
+		<string>FontAwesome6_Solid.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>Zocial.ttf</string>
+		<string>Fontisto.ttf</string>
+		<string>AGaramondPro-BoldItalic.otf</string>
+		<string>AGaramondPro-Italic.otf</string>
+		<string>AGaramondPro-Regular.otf</string>
+		<string>AGaramondPro-SemiboldItalic.otf</string>
+		<string>Canopee.otf</string>
+		<string>Geomanist-Book.otf</string>
+		<string>Geomanist-Black-Italic.otf</string>
+		<string>Geomanist-Black.otf</string>
+		<string>Geomanist-Bold-Italic.otf</string>
+		<string>Geomanist-Bold.otf</string>
+		<string>Geomanist-Book-Italic.otf</string>
+		<string>Geomanist-ExtraLight-Italic.otf</string>
+		<string>Geomanist-ExtraLight.otf</string>
+		<string>Geomanist-Light-Italic.otf</string>
+		<string>Geomanist-Light.otf</string>
+		<string>Geomanist-Medium-Italic.otf</string>
+		<string>Geomanist-Medium.otf</string>
+		<string>Geomanist-Regular-Italic.otf</string>
+		<string>Geomanist-Regular.otf</string>
+		<string>Geomanist-Thin-Italic.otf</string>
+		<string>Geomanist-Thin.otf</string>
+		<string>Geomanist-Ultra-Italic.otf</string>
+		<string>Geomanist-Ultra.otf</string>
+		<string>Monotype  - Helvetica Now Display.otf</string>
+		<string>MyriadPro-Regular.otf</string>
+		<string>Avenir Black Oblique.ttf</string>
+		<string>Avenir Book Oblique.ttf</string>
+		<string>Avenir Medium.ttf</string>
+		<string>Avenir-Black.ttf</string>
+		<string>Avenir-Medium.ttf</string>
+		<string>Avenir-Oblique.ttf</string>
+		<string>Avenir-Roman.ttf</string>
+		<string>Avenir_85_Heavy.ttf</string>
+		<string>Avenir_95_Black.ttf</string>
+		<string>geomanist-black-italic-webfont.ttf</string>
+		<string>geomanist-black-webfont.ttf</string>
+		<string>geomanist-bold-italic-webfont.ttf</string>
+		<string>geomanist-bold-webfont.ttf</string>
+		<string>geomanist-book-italic-webfont.ttf</string>
+		<string>geomanist-book-webfont.ttf</string>
+		<string>geomanist-extralight-italic-webfont.ttf</string>
+		<string>geomanist-extralight-webfont.ttf</string>
+		<string>geomanist-light-italic-webfont.ttf</string>
+		<string>geomanist-light-webfont.ttf</string>
+		<string>geomanist-medium-italic-webfont.ttf</string>
+		<string>geomanist-medium-webfont.ttf</string>
+		<string>geomanist-regular-italic-webfont.ttf</string>
+		<string>geomanist-regular-webfont.ttf</string>
+		<string>geomanist-thin-italic-webfont.ttf</string>
+		<string>geomanist-thin-webfont.ttf</string>
+		<string>geomanist-ultra-italic-webfont.ttf</string>
+		<string>geomanist-ultra-webfont.ttf</string>
+		<string>Adobe Garamond Pro Bold.otf</string>
+		<string>EB Garamond.ttf</string>
+	</array>
 </dict>
 </plist>

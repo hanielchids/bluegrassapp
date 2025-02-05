@@ -1,0 +1,633 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/AGaramondPro-BoldItalic.otf",
+      "sha1": "17985555634b9ac5f557c5c7ca8c4894110a0b76"
+    },
+    {
+      "path": "src/assets/fonts/AGaramondPro-Italic.otf",
+      "sha1": "20e900a564ec2ae4528535fd59a28c2a07ec2ae2"
+    },
+    {
+      "path": "src/assets/fonts/AGaramondPro-Regular.otf",
+      "sha1": "211723d7471e07a637d844318f0c9ae61cce236d"
+    },
+    {
+      "path": "src/assets/fonts/AGaramondPro-SemiboldItalic.otf",
+      "sha1": "90540332bb30821928b57f926727e5398dc86f26"
+    },
+    {
+      "path": "src/assets/fonts/Adobe Garamond Pro Bold.otf",
+      "sha1": "8fbe31a4a3bcabea094858800f94c70df6303eaa"
+    },
+    {
+      "path": "src/assets/fonts/Avenir Black Oblique.ttf",
+      "sha1": "9276ea38a736b02ef374f3c71adfacb59950294c"
+    },
+    {
+      "path": "src/assets/fonts/Avenir Book Oblique.ttf",
+      "sha1": "d28790a0db7d82507bcfdea192560a34b924cf60"
+    },
+    {
+      "path": "src/assets/fonts/Avenir Medium.ttf",
+      "sha1": "6add21b119dcbd7ae3e76440885e417d10d2b67d"
+    },
+    {
+      "path": "src/assets/fonts/Avenir-Black.ttf",
+      "sha1": "8785410d05803e43992bc9d0b44cbaabaa72ef9b"
+    },
+    {
+      "path": "src/assets/fonts/Avenir-Medium.ttf",
+      "sha1": "271fcc5b7153bbf7607606a1f76a601ca9acae10"
+    },
+    {
+      "path": "src/assets/fonts/Avenir-Oblique.ttf",
+      "sha1": "1d6e24bdacb160df49f47d91b160ed8f3b64d60f"
+    },
+    {
+      "path": "src/assets/fonts/Avenir-Roman.ttf",
+      "sha1": "758723a68b2480466c95a1e090f5be8eafbd5817"
+    },
+    {
+      "path": "src/assets/fonts/Avenir.ttc",
+      "sha1": "e49ae482c1b9f6843454376e77adf9d3f6f77185"
+    },
+    {
+      "path": "src/assets/fonts/Avenir_85_Heavy.ttf",
+      "sha1": "0b9177b4624184f8e164288d978199e05ee7df8e"
+    },
+    {
+      "path": "src/assets/fonts/Avenir_95_Black.ttf",
+      "sha1": "387ca6017255558a1e04f1f19eebbda5aa56682a"
+    },
+    {
+      "path": "src/assets/fonts/CANOPEE/DESKTOP/Canopee.otf",
+      "sha1": "f1e6896b7e0481f72bd239d1b14a74ad698814db"
+    },
+    {
+      "path": "src/assets/fonts/CANOPEE/EULA_VJ-TYPE.pdf",
+      "sha1": "83f986cd9accdce0a62357d067d12721a071a86f"
+    },
+    {
+      "path": "src/assets/fonts/CANOPEE/VJ-TYPE_CANOPEE-SPECIMEN.pdf",
+      "sha1": "77bfdd85e75437432805f6314db319cb4e30e136"
+    },
+    {
+      "path": "src/assets/fonts/CANOPEE/VJ-TYPE_HOWTOUSE_CANOPEE.pdf",
+      "sha1": "754a7d05dce33a0ca7ca1bdbb79afba376855d14"
+    },
+    {
+      "path": "src/assets/fonts/CANOPEE/WEB/Canopee.eot",
+      "sha1": "b70b231f158859eefc7e62a947f028e1cb55c9df"
+    },
+    {
+      "path": "src/assets/fonts/CANOPEE/WEB/Canopee.woff",
+      "sha1": "770cee10fa31a05c4dcf87ce3c574dfde38430c3"
+    },
+    {
+      "path": "src/assets/fonts/CANOPEE/WEB/Canopee.woff2",
+      "sha1": "60381fc89818960793626538391bd2fe1ab86c60"
+    },
+    {
+      "path": "src/assets/fonts/EB Garamond.ttf",
+      "sha1": "5d092219eb48f11996d6e74337f1465e47df96c9"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Book.otf",
+      "sha1": "3306394a62b53ba891df31cba89195fbeccf4405"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Black-Italic.otf",
+      "sha1": "edfc020f5e04806c682aa4b0adfe19782c3a50ea"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Black.otf",
+      "sha1": "c42d3c1770dcd3f05546e822573e4fcf5e7f48db"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Bold-Italic.otf",
+      "sha1": "53b33196a602434fe010d8c7b64457b9bdd8a7fb"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Bold.otf",
+      "sha1": "889a46a1d8463c86b9a719876882241cf5d46ccd"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Book-Italic.otf",
+      "sha1": "76f9e7b4878d653e4c2d0917aebb19cddc272c12"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-ExtraLight-Italic.otf",
+      "sha1": "46e530f5daf069f253af93e7caec9fbaafd14077"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-ExtraLight.otf",
+      "sha1": "340dbdd1f01fd4aae37d839cf6d98b9ff4061184"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Light-Italic.otf",
+      "sha1": "6b897bb3d8d923285a81cc50e41ca4c66a15f359"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Light.otf",
+      "sha1": "4f61fada6f2a8b874387917e235fc42dc117a779"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Medium-Italic.otf",
+      "sha1": "228eb19f761afa18081893d41f2327cb274b8da6"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Medium.otf",
+      "sha1": "f8b74a25b5ad2279e5c4688d79cb77b06b9e3179"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Regular-Italic.otf",
+      "sha1": "f50d7388c78416bc7db24bf080388b704f770a9b"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Regular.otf",
+      "sha1": "85c71a09845c2d27e6d52f9041c8f9b41dd9e0bc"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Thin-Italic.otf",
+      "sha1": "73889c2bf6d62e46658216626a37115383d0d20d"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Thin.otf",
+      "sha1": "7eef70bb1091c462463bbbc3154493b1722e40bc"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Ultra-Italic.otf",
+      "sha1": "e7f157f6abc2ab12fa6c3bdf44f7475d88714987"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Desktop/Geomanist-Ultra.otf",
+      "sha1": "1573eb481edd2fffaa98c3357317b6dc7a78dc85"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Desktop/geomanist_desktop_license.pdf",
+      "sha1": "bd3fc556fcafb1da03df148d0cfe87ab21efb825"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/generator_config.txt",
+      "sha1": "67239388a4c58a4f848aed55d46b65e8229c94a9"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/geomanist-black-italic-demo.html",
+      "sha1": "d8e84623bd8cef9bc6910a0b2df475a177fb35c3"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/geomanist-black-italic-webfont.eot",
+      "sha1": "fc765489a9fdf04e3e82c765a10778270a8749fe"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/geomanist-black-italic-webfont.svg",
+      "sha1": "bc9f9cedd2072f1db096aeb687f4fe12e28adaf5"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/geomanist-black-italic-webfont.ttf",
+      "sha1": "99b0589d443adbf60fc353d925a82a2496151391"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/geomanist-black-italic-webfont.woff",
+      "sha1": "934ec50c1ea25b3c01addb4f425783209482d1a1"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/geomanist-black-italic-webfont.woff2",
+      "sha1": "c25f032a32259220f53c879a294347734b02bec9"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/specimen_files/grid_12-825-55-15.css",
+      "sha1": "870c69535dfe53e0acc9c5d85af5c198afb7550d"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/specimen_files/specimen_stylesheet.css",
+      "sha1": "7af68f60ed4b6f0e70defea7da3555d83813f564"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Italic-Webfont/stylesheet.css",
+      "sha1": "a0a15116a7969e9dce6da83e44a004e6f583a8f4"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Webfont/geomanist-black-demo.html",
+      "sha1": "053fe7eb8a08088c11d761d0e2ce8e38d082a275"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Webfont/geomanist-black-webfont.eot",
+      "sha1": "26b54bd4c7f5577385cbe348b73c5ded353ad8d6"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Webfont/geomanist-black-webfont.svg",
+      "sha1": "648e6f94582254d3487e928a3e0004b987ae7756"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Webfont/geomanist-black-webfont.ttf",
+      "sha1": "46b5175fd822315bda95206ceb836013b21f4c62"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Webfont/geomanist-black-webfont.woff",
+      "sha1": "115e826e427a00511478c15c4368946b3c75654e"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Black-Webfont/geomanist-black-webfont.woff2",
+      "sha1": "6071022b43286653f5075d931cb5bac5df4ee1f7"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Italic-Webfont/geomanist-bold-italic-demo.html",
+      "sha1": "fb1702a574295c5d66cfd1718a9fe80cf363c40c"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Italic-Webfont/geomanist-bold-italic-webfont.eot",
+      "sha1": "efbb99b55a311e9d57e8b8a563f0b97787b5e25d"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Italic-Webfont/geomanist-bold-italic-webfont.svg",
+      "sha1": "31a2650be93841c513e4093e34b100bb36d558bc"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Italic-Webfont/geomanist-bold-italic-webfont.ttf",
+      "sha1": "803ca0ca78b09391f0c0f7999b20b64b1c30bf2a"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Italic-Webfont/geomanist-bold-italic-webfont.woff",
+      "sha1": "212cd3891047395e7a12ef07c1ad52581ebed1d9"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Italic-Webfont/geomanist-bold-italic-webfont.woff2",
+      "sha1": "8b674f36d7a51557a712819f084fe0988b3f64bc"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Webfont/geomanist-bold-demo.html",
+      "sha1": "b935f19d298bd972c7e4a275ade59eba5a582e24"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Webfont/geomanist-bold-webfont.eot",
+      "sha1": "6007c4818c0d6d9b7863f1845ccfcd038a5181ec"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Webfont/geomanist-bold-webfont.svg",
+      "sha1": "a52b9800da0995f1fe33b59bca43ac3362d0e656"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Webfont/geomanist-bold-webfont.ttf",
+      "sha1": "8339132b4fe51e65f49cd245bfbde6b83aed3825"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Webfont/geomanist-bold-webfont.woff",
+      "sha1": "4d07f01c206928d1349e92c1f91c88754b396a70"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Bold-Webfont/geomanist-bold-webfont.woff2",
+      "sha1": "ec1875e68327645ec4ee31c924f86c8c648f566e"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Italic-Webfont/geomanist-book-italic-demo.html",
+      "sha1": "182d6ec89fe87b7840b975cc2d8bf5a871f27280"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Italic-Webfont/geomanist-book-italic-webfont.eot",
+      "sha1": "fa135cb9202f4fba66924049a7bea93a9b33e0ca"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Italic-Webfont/geomanist-book-italic-webfont.svg",
+      "sha1": "6d98129a8fbada9f81004199c848c081d0df08f1"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Italic-Webfont/geomanist-book-italic-webfont.ttf",
+      "sha1": "85d93642fef60c309d17575757e04b5cf5c06f3a"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Italic-Webfont/geomanist-book-italic-webfont.woff",
+      "sha1": "18f444e1f85e9d9b0c216eb5feb8cc0072a9fcad"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Italic-Webfont/geomanist-book-italic-webfont.woff2",
+      "sha1": "df23a5e970de1447630f10f68d663536c993f8f8"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Webfont/geomanist-book-demo.html",
+      "sha1": "aea9fd3e889900c3c2246f8c97dd224878ed2729"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Webfont/geomanist-book-webfont.eot",
+      "sha1": "aa53c8a24fb550d165da7ead8d6f08dede1e337a"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Webfont/geomanist-book-webfont.svg",
+      "sha1": "7c9ff181387f2231ad5b9702d372e2b1ee910d9a"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Webfont/geomanist-book-webfont.ttf",
+      "sha1": "da07de81788274630bc29afeb26149385da6dd81"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Webfont/geomanist-book-webfont.woff",
+      "sha1": "6c4e9ab39f73cda52c84ad6aca66aa00d217a710"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Book-Webfont/geomanist-book-webfont.woff2",
+      "sha1": "7d64984138bbd3ccf7010e3f855a4c267b209712"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Italic Webfont/geomanist-extralight-italic-demo.html",
+      "sha1": "a41e8910befb4fea14a182f42354afab48a771fc"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Italic Webfont/geomanist-extralight-italic-webfont.eot",
+      "sha1": "48dff82af9638a0763300ac454934213bd1c3912"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Italic Webfont/geomanist-extralight-italic-webfont.svg",
+      "sha1": "8e38baf00d6fdee3046f0294e9b75d6232fce2ae"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Italic Webfont/geomanist-extralight-italic-webfont.ttf",
+      "sha1": "4766f1b6be71ef450796cd5f10572100fcffe567"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Italic Webfont/geomanist-extralight-italic-webfont.woff",
+      "sha1": "7ebc8613bcfee26058da39c272e8a35cd441cd95"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Italic Webfont/geomanist-extralight-italic-webfont.woff2",
+      "sha1": "6972e3c89755ac18ecf9a97e1164c467c9b9e535"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Webfont/geomanist-extralight-demo.html",
+      "sha1": "10e4b8040bb844858ab893266d6946e7b0f66142"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Webfont/geomanist-extralight-webfont.eot",
+      "sha1": "962f1ab3449e3f1e83afb92a9a4b632f553ab704"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Webfont/geomanist-extralight-webfont.svg",
+      "sha1": "819bc69d8a7a5e43c09ea7c223ee92c36f705e74"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Webfont/geomanist-extralight-webfont.ttf",
+      "sha1": "a5f9838a7f0ab7bbcefa41e9c0029978cfd55456"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Webfont/geomanist-extralight-webfont.woff",
+      "sha1": "afd092b04fa5ac97780e5f52f67348a525172c55"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-ExtraLight-Webfont/geomanist-extralight-webfont.woff2",
+      "sha1": "61952f7373c9dbb282b85cd038a150daa45da8a5"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Italic-Webfont/geomanist-light-italic-demo.html",
+      "sha1": "d8f4c68d123afc0b717a41ec17ce8010a9b4189c"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Italic-Webfont/geomanist-light-italic-webfont.eot",
+      "sha1": "5ccd82201a2a48d0e9d148d0f40a938468772725"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Italic-Webfont/geomanist-light-italic-webfont.svg",
+      "sha1": "04d9aec5a42a0f00bf170c1b661b2fd6da1b710e"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Italic-Webfont/geomanist-light-italic-webfont.ttf",
+      "sha1": "0827e9a700437cf456e4ee74224b131d699ca3cb"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Italic-Webfont/geomanist-light-italic-webfont.woff",
+      "sha1": "0e0224b84f89eac675a18900adcfad4190368338"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Italic-Webfont/geomanist-light-italic-webfont.woff2",
+      "sha1": "fa6d389281d6324a1966bae756ce43fbee0b0207"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Webfont/geomanist-light-demo.html",
+      "sha1": "dac994d19b631d08e9cea6d76b1bbf7efa4270fb"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Webfont/geomanist-light-webfont.eot",
+      "sha1": "a9aa157b2f0a0e8a2728298d743c378798c29f9a"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Webfont/geomanist-light-webfont.svg",
+      "sha1": "ea9334eb158628fc674e0b496790a19777774de0"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Webfont/geomanist-light-webfont.ttf",
+      "sha1": "ec01dfd4467d1c06b8eb29eed0f9b30d775943e6"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Webfont/geomanist-light-webfont.woff",
+      "sha1": "4b4094fa727f70d86b7d4803890b9715e37b4d37"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Light-Webfont/geomanist-light-webfont.woff2",
+      "sha1": "8f66439da5d42549f9e4df25e7e7cb78a661d442"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Italic-Webfont/geomanist-medium-italic-demo.html",
+      "sha1": "fbdd72b9e4963814ff62c93e1c7688073415d0fe"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Italic-Webfont/geomanist-medium-italic-webfont.eot",
+      "sha1": "a9a3994895a0a10ac92a8c941dc7a34a08fad79f"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Italic-Webfont/geomanist-medium-italic-webfont.svg",
+      "sha1": "0e9540dc39f2e5e9dd0434be3b4b53a62dc2505b"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Italic-Webfont/geomanist-medium-italic-webfont.ttf",
+      "sha1": "a201d627c663277ca4df9224f25f5bb336e2e1d0"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Italic-Webfont/geomanist-medium-italic-webfont.woff",
+      "sha1": "b6f2ee9196df504b69568c8e807e49282f024766"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Italic-Webfont/geomanist-medium-italic-webfont.woff2",
+      "sha1": "031d6f3041e3f11df6de183604ea67943ecb6192"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Webfont/geomanist-medium-demo.html",
+      "sha1": "cdf91b9c3bcfe9f0474f9cc950f4892396c41959"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Webfont/geomanist-medium-webfont.eot",
+      "sha1": "26a8a2c66bdfe42fd2024c53644fef54e4b6b36a"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Webfont/geomanist-medium-webfont.svg",
+      "sha1": "56d7fd5a03b3d07d7b7ccd9321f024703c6db5b2"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Webfont/geomanist-medium-webfont.ttf",
+      "sha1": "33abf3e2e4415425290eac3244b95cc0c03aa8aa"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Webfont/geomanist-medium-webfont.woff",
+      "sha1": "d43dc513eb92b466263bec8fa33777211087fedd"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Medium-Webfont/geomanist-medium-webfont.woff2",
+      "sha1": "a4f02786838960a9d8ab9cef9502d349d212cee8"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Italic-Webfont/geomanist-regular-italic-demo.html",
+      "sha1": "48ced58358767705502af2e3dbc68be9d1a2ef8c"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Italic-Webfont/geomanist-regular-italic-webfont.eot",
+      "sha1": "fa858dfa7086d2e8a4e4ef76865f77b6b2a4a9ea"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Italic-Webfont/geomanist-regular-italic-webfont.svg",
+      "sha1": "a99a122d2b3faa0d2680caba59060a6c8e71ac23"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Italic-Webfont/geomanist-regular-italic-webfont.ttf",
+      "sha1": "6b4c9edc35497cd8862ce425cce0c9e384f55a01"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Italic-Webfont/geomanist-regular-italic-webfont.woff",
+      "sha1": "8929ddf6d9292e02464a489dbc8fb1b3a835014b"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Italic-Webfont/geomanist-regular-italic-webfont.woff2",
+      "sha1": "7a8a119d8043bbe1c6a2d340aea335c55fc2febb"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Webfont/geomanist-regular-demo.html",
+      "sha1": "8b845eb77ae53e68fbd9924349db9bafb04a5513"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Webfont/geomanist-regular-webfont.eot",
+      "sha1": "886b6509fe31d4174d0b3feed33f06210cec7e3d"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Webfont/geomanist-regular-webfont.svg",
+      "sha1": "fef991a63dac04e2447128bc4444103ff70e5f6c"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Webfont/geomanist-regular-webfont.ttf",
+      "sha1": "c26c47df5da6c4133ebab6561f79919492ecdf68"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Webfont/geomanist-regular-webfont.woff",
+      "sha1": "2246fb96008edbbb246c0d06230fe20dca43eb52"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Regular-Webfont/geomanist-regular-webfont.woff2",
+      "sha1": "8cd83223bef85e1176e7cab080f09548ba15a937"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Italic-Webfont/geomanist-thin-italic-demo.html",
+      "sha1": "e88c8890917e71e8dc9860630ed23f138224c1ca"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Italic-Webfont/geomanist-thin-italic-webfont.eot",
+      "sha1": "0c38ae40ecb25689b655dd9a89a1a47febd0f365"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Italic-Webfont/geomanist-thin-italic-webfont.svg",
+      "sha1": "8b4f91a3c2258712dd7d725b2958773ade437a7f"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Italic-Webfont/geomanist-thin-italic-webfont.ttf",
+      "sha1": "3e98f3c4a0fe0b966a0e2720c5596dd5e6b85d2b"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Italic-Webfont/geomanist-thin-italic-webfont.woff",
+      "sha1": "c698860980faef7f913e56d0f1b3359eb73a461e"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Italic-Webfont/geomanist-thin-italic-webfont.woff2",
+      "sha1": "5ef38767bcf23ad8831e21ee593c074b9f47aafb"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Webfont/geomanist-thin-demo.html",
+      "sha1": "3ea8f6aa7999497a9a936260bad654e2b9b0395c"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Webfont/geomanist-thin-webfont.eot",
+      "sha1": "27012e5a1dcb2686ca83525aaa2e49554b87f585"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Webfont/geomanist-thin-webfont.svg",
+      "sha1": "a7204eb90bd7082668157441a7c64792b19bc87a"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Webfont/geomanist-thin-webfont.ttf",
+      "sha1": "247b8e82ae55de19af135764f5b932cebb86c1ff"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Webfont/geomanist-thin-webfont.woff",
+      "sha1": "065944aeffd9e985f01075bfbcadac4f7dd3525a"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Thin-Webfont/geomanist-thin-webfont.woff2",
+      "sha1": "d36178fbdc3432fdcafb2a9c532782563cbe096d"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Italic-Webfont/geomanist-ultra-italic-demo.html",
+      "sha1": "27768566097e09f368ca46cbf93df3f161549ea3"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Italic-Webfont/geomanist-ultra-italic-webfont.eot",
+      "sha1": "82254bd4bea6cf50aaaeb586fc147d499c9a1d58"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Italic-Webfont/geomanist-ultra-italic-webfont.svg",
+      "sha1": "617a2768ddc5c60bbbc00903d470d94926a9f3f4"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Italic-Webfont/geomanist-ultra-italic-webfont.ttf",
+      "sha1": "8b1049a9f24b9fd833e33f693349564dd60670ec"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Italic-Webfont/geomanist-ultra-italic-webfont.woff",
+      "sha1": "a798906921831062b9c7918d97b7edf032bb8b40"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Italic-Webfont/geomanist-ultra-italic-webfont.woff2",
+      "sha1": "a2612bb6263763c9b4fad22d9a835af7b4e0a139"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Webfont/geomanist-ultra-demo.html",
+      "sha1": "3abd0c02d310920b18405bd8306b3edbd7667b09"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Webfont/geomanist-ultra-webfont.eot",
+      "sha1": "092e5cbd7d7d598b537ccdaad7080ca7f7d21f49"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Webfont/geomanist-ultra-webfont.svg",
+      "sha1": "19fb67b204a618e156e7fda0f10d22621e143c56"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Webfont/geomanist-ultra-webfont.ttf",
+      "sha1": "b547bad07d9e846cc99cd18104164253e333d02f"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Webfont/geomanist-ultra-webfont.woff",
+      "sha1": "4586a1d22e846ebe22f029da7fa22a1c2e831c7b"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/Geomanist-Ultra-Webfont/geomanist-ultra-webfont.woff2",
+      "sha1": "ac299102d34788a22137b8a910792ce816b5792b"
+    },
+    {
+      "path": "src/assets/fonts/Geomanist-Complete-Webfont/geomanist_webfont_license.pdf",
+      "sha1": "904ba9e6f0884222d24c9a4a7fd8a9e13b331817"
+    },
+    {
+      "path": "src/assets/fonts/Monotype  - Helvetica Now Display.otf",
+      "sha1": "72be74408fa4623c980f4e7c30f4e35de09112cf"
+    },
+    {
+      "path": "src/assets/fonts/MyriadPro-Regular.otf",
+      "sha1": "0e18282cd63b45610bf8381ca2895c7fde1477bd"
+    }
+  ]
+}
